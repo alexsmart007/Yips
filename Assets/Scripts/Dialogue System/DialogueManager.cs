@@ -135,7 +135,7 @@ public class DialogueManager : SingletonMonoBehavior<DialogueManager>
             }
         }
 
-        nextIsPuzzle = route.isPuzzle;
+        //nextIsPuzzle = route.isPuzzle;
         foreach (var requirment in route.Requirements)
         {
             //if (requirment.isItemID && requirment.consumesItem) InventoryManager.Instance.DiscardItem(requirment.label);
