@@ -8,7 +8,7 @@ public static class DialogueHelperClass
     public static readonly string CONVERSANT_MARKER = "Conversant: ";
     public static readonly string UNLOCKS_MARKER = "Unlocks: ";
     public static readonly string DIALOGUE_MARKER = "Dialogue:";
-    public static readonly string PLAYER_MARKER = "L0-1D: ";
+    public static readonly string PLAYER_MARKER = "Detective Birch";
     public static readonly string VOICE_MARKER = "Voice: ";
     public static readonly string CHOICES_MARKER = "Choices:";
     public static readonly string LEADS_TO_MARKER = "Leads to:";

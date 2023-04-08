@@ -24,6 +24,6 @@ MonoBehaviour:
     Choices:
     - Thank you for your time
     LeadsTo:
-    - BranchText: Exit
+    - BranchText: Sus1-11
       isPuzzle: 0
       Requirements: []
