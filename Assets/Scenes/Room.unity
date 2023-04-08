@@ -622,7 +622,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ba6517b69d386c409d97ad8060d6a4f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogue: {fileID: 11400000, guid: b764798230f0bd140b1255895d490c52, type: 2}
+  dialogue: {fileID: 11400000, guid: 2a0c2790abe32204eab1b8ee312903c5, type: 2}
 --- !u!58 &523249117
 CircleCollider2D:
   m_ObjectHideFlags: 0
@@ -979,7 +979,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ba6517b69d386c409d97ad8060d6a4f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogue: {fileID: 11400000, guid: b764798230f0bd140b1255895d490c52, type: 2}
+  dialogue: {fileID: 11400000, guid: 2a0c2790abe32204eab1b8ee312903c5, type: 2}
 --- !u!212 &1287775653
 SpriteRenderer:
   m_ObjectHideFlags: 0
