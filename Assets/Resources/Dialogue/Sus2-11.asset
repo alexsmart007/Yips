@@ -30,6 +30,6 @@ MonoBehaviour:
     - BranchText: Sus2-12
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus2-Successl
+    - BranchText: Sus2-Success
       isPuzzle: 0
       Requirements: []
