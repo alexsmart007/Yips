@@ -10,15 +10,20 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: WhiteboxTest
+  m_Name: Sus1-8
   m_EditorClassIdentifier: 
   conversationData:
-    ID: WhiteboxTest
-    Conversant: N/A
+    ID: Sus1-8
+    Conversant: Haven Quinn
     Unlocks: N/A
     Dialogues:
-    - WickIsSpeaker: 0
-      VoiceSpeaker: 1
-      Dialogue: <i> This is a Test! :) </i>
-    Choices: []
-    LeadsTo: []
+    - PlayerIsSpeaker: 0
+      VoiceSpeaker: 0
+      Dialogue: Tonight I have a few more programming assignments to work through
+        and then I will most likely work on analyzing last weeks data
+    Choices:
+    - Thank you for your time
+    LeadsTo:
+    - BranchText: Exit
+      isPuzzle: 0
+      Requirements: []

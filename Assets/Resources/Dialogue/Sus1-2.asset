@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
+  m_Name: Sus1-2
+  m_EditorClassIdentifier: 
+  conversationData:
+    ID: Sus1-2
+    Conversant: Haven Quinn
+    Unlocks: N/A
+    Dialogues:
+    - PlayerIsSpeaker: 0
+      VoiceSpeaker: 0
+      Dialogue: I have always been interested in AI, it truly is a unique subject
+        matter that we should all be looking into more. I figured that through working
+        here I would be able to boost my own skills
+    Choices:
+    - What is your favorite video game
+    - How do you feel about this situation
+    - What do you think of your family
+    LeadsTo:
+    - BranchText: Sus1-5
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus1-6
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus1-7
+      isPuzzle: 0
+      Requirements: []

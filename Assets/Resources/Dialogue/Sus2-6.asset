@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
+  m_Name: Sus2-6
+  m_EditorClassIdentifier: 
+  conversationData:
+    ID: Sus2-6
+    Conversant: Valorie Pines
+    Unlocks: N/A
+    Dialogues:
+    - PlayerIsSpeaker: 0
+      VoiceSpeaker: 0
+      Dialogue: "I don\u2019t really care to be honest. I don\u2019t see why this
+        whole AI thing is such a big deal. It\u2019s not hurting anyone, right?"
+    Choices:
+    - What are you gonna do when you leave here
+    - What is your dream job
+    - Are you scared of death
+    LeadsTo:
+    - BranchText: Sus2-8
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus2-9
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus2-10
+      isPuzzle: 0
+      Requirements: []

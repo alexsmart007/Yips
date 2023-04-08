@@ -10,18 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Test
+  m_Name: Sus1-6
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Test
-    Conversant: N/A
+    ID: Sus1-6
+    Conversant: Haven Quinn
     Unlocks: N/A
     Dialogues:
-    - PlayerIsSpeaker: 1
+    - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: Test Test test
-    Choices: []
+      Dialogue: I am slightly confused as to why you decided to gather all of us
+        here together
+    Choices:
+    - What are you gonna do when you leave here
+    - What is your dream job
+    - Are you scared of death
     LeadsTo:
-    - BranchText: Exit
+    - BranchText: Sus1-8
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus1-9
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus1-10
       isPuzzle: 0
       Requirements: []
