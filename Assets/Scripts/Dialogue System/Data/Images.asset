@@ -15,12 +15,7 @@ MonoBehaviour:
   serializationData:
     SerializedFormat: 2
     SerializedBytes: 
-    ReferencedUnityObjects:
-    - {fileID: 21300000, guid: 6e09e7e358d0099499d50d8a367daf39, type: 3}
-    - {fileID: 21300000, guid: 59fece6362769764d9a56d90a9b4a991, type: 3}
-    - {fileID: 21300000, guid: 3e7d1a1683ad82845acf20e3f304a695, type: 3}
-    - {fileID: 21300000, guid: 34897480687bd43479b13c582d03328f, type: 3}
-    - {fileID: 21300000, guid: 815550c7ebf0e604ea55f330f7243ca1, type: 3}
+    ReferencedUnityObjects: []
     SerializedBytesString: 
     Prefab: {fileID: 0}
     PrefabModificationsReferencedUnityObjects: []
@@ -39,64 +34,16 @@ MonoBehaviour:
       Data: 
     - Name: 
       Entry: 12
-      Data: 6
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 1
-      Data: green
-    - Name: $v
-      Entry: 10
-      Data: 0
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 1
-      Data: Ginkgo
-    - Name: $v
-      Entry: 10
-      Data: 1
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 1
-      Data: Hibiscus
-    - Name: $v
-      Entry: 10
-      Data: 2
-    - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
-      Entry: 7
-      Data: 
-    - Name: $k
-      Entry: 1
-      Data: Cinnamon
-    - Name: $v
-      Entry: 10
       Data: 3
     - Name: 
-      Entry: 8
-      Data: 
-    - Name: 
       Entry: 7
       Data: 
     - Name: $k
       Entry: 1
-      Data: Chamonmile
+      Data: Haven Quinn
     - Name: $v
-      Entry: 10
-      Data: 4
+      Entry: 6
+      Data: 
     - Name: 
       Entry: 8
       Data: 
@@ -105,7 +52,19 @@ MonoBehaviour:
       Data: 
     - Name: $k
       Entry: 1
-      Data: Baker
+      Data: Valorie Pines
+    - Name: $v
+      Entry: 6
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 
+    - Name: $k
+      Entry: 1
+      Data: Detective Brich
     - Name: $v
       Entry: 6
       Data: 

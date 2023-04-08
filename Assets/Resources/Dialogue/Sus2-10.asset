@@ -19,10 +19,10 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: No
+      Dialogue: "I think death is\u2026 interesting."
     Choices:
-    - "I think death is\u2026 interesting."
+    - Thank you for your time
     LeadsTo:
-    - BranchText: Exit
+    - BranchText: Sus2-11
       isPuzzle: 0
       Requirements: []
