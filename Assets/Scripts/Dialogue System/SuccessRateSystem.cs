@@ -29,7 +29,9 @@ public class SuccessRateSystem : MonoBehaviour
                 }
             }
         }
-        if(fail+success != 0) successRate = success / (fail + success);
+        if(fail+success != 0) successRate = success / (float)(fail + success);
+        print("Success " + success);
+        print("Fail " + fail);
         success = 0;
         fail = 0;
         return successRate;
@@ -38,7 +40,7 @@ public class SuccessRateSystem : MonoBehaviour
 
     void Update()
     {
-        print(CalculateSuccessRate());
+        print("Success Rate: " + CalculateSuccessRate());
     }
 
 }
