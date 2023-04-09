@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: "I\u2019m just a student at some community college, I wanted to do
         something art related, but I don\u2019t really have a good job right now."
+      VoiceLine: {fileID: 0}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

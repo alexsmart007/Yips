@@ -201,6 +201,8 @@ public class DialogueManager : SingletonMonoBehavior<DialogueManager>
             name = (dialogue.PlayerIsSpeaker ? PLAYER_MARKER : conversant) + ": ";
         }
 
+        if(dialogue.VoiceLine != null) dialogue.VoiceLine.Play();
+
         yield return TypewriterDialogue(name, dialogue.Dialogue, dialogue.PlayerIsSpeaker);
 
         Controller.OnNextDialogue += OnContinueInput;

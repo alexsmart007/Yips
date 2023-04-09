@@ -20,6 +20,7 @@ MonoBehaviour:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
       Dialogue: Subway Surfers, obviously.
+      VoiceLine: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

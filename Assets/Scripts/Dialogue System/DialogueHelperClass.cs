@@ -19,6 +19,7 @@ public static class DialogueHelperClass
         public bool PlayerIsSpeaker;
         public bool VoiceSpeaker;
         [SerializeField, TextArea()] public string Dialogue;
+        [SerializeField] public AudioSource VoiceLine;
     }
 
     [System.Serializable]
