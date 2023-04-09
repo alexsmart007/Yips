@@ -6,7 +6,6 @@ using System;
 
 public class CursorController : MonoBehaviour
 {
-    [SerializeField] private InteractablesManager interactablesManager;
 
     [SerializeField] private Transform newSelectionTransform;
     private Transform currentSelectionTransform;
@@ -22,6 +21,10 @@ public class CursorController : MonoBehaviour
     private Vector2 inputPositionVector;
 
     [SerializeField] private AudioSource interactSound;
+
+    [SerializeField] private List<Transform> interactables;
+
+    [SerializeField] private Camera mainCamera;
 
     private void OnEnable()
     {
@@ -44,13 +47,14 @@ public class CursorController : MonoBehaviour
     {
         newSelectionTransform =null;
 
-        for(int itemIndex=0; itemIndex<interactablesManager.Interactables.Count; itemIndex++)
+        for(int itemIndex=0; itemIndex < interactables.Count; itemIndex++)
         {
-            Vector2 fromMouseToInteractableOffset = interactablesManager.Interactables[itemIndex].position - new Vector3(inputPositionVector.x, inputPositionVector.y, 0f);
+
+            Vector2 fromMouseToInteractableOffset = mainCamera.WorldToScreenPoint(interactables[itemIndex].position) - new Vector3(inputPositionVector.x, inputPositionVector.y, 0f);
             if(fromMouseToInteractableOffset.sqrMagnitude < distanceThreshold * distanceThreshold) 
             {
                 //Found an interable exit out of loop
-                newSelectionTransform = interactablesManager.Interactables[itemIndex].transform;
+                newSelectionTransform = interactables[itemIndex];
                 if (!cursorIsInteractive) InteractiveCursorTexture();
                 break;
             }        
