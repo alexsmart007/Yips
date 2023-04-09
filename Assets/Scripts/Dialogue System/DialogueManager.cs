@@ -210,6 +210,9 @@ public class DialogueManager : SingletonMonoBehavior<DialogueManager>
         yield return new WaitUntil(() => continueInputRecieved);
 
         Controller.OnNextDialogue -= OnContinueInput;
+
+        if (dialogue.VoiceLine != null) dialogue.VoiceLine.Stop();
+
     }
 
     private IEnumerator TypewriterDialogue(string name, string line, bool isWickSpeaker)

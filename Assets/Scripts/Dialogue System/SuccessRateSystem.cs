@@ -38,7 +38,7 @@ public class SuccessRateSystem : MonoBehaviour
 
     void Update()
     {
-        //print(CalculateSuccessRate());
+        print(CalculateSuccessRate());
     }
 
 }
