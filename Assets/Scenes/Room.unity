@@ -1064,7 +1064,7 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 2.1875}
   m_EdgeRadius: 0
---- !u!1 &838850298
+--- !u!1 &838850301
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
