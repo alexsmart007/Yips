@@ -20,6 +20,7 @@ MonoBehaviour:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
       Dialogue: "What is it? Can\u2019t you see I\u2019m busy."
+      VoiceLine: {fileID: 0}
     Choices:
     - Why did you sign up for the project
     - What is the last thing you remember before this happened?

@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: No reason really, I saw they were offering money and I figured it
         was better than staying at home with my crazy mom. Honestly, anywhere is
         better than home.
+      VoiceLine: {fileID: 0}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

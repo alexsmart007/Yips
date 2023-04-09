@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: "I don\u2019t know\u2026 I think I was looking at some slides or
         something? Why does it matter?"
+      VoiceLine: {fileID: 0}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation
