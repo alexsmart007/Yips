@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conversationData:
     ID: Sus4-Fail
-    Conversant: ' Nadine Vincent'
+    Conversant: Nadine Vincent
     Unlocks: Sus4_Fail
     Dialogues:
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
-      Dialogue: ': That was a nice talk. Now on to the next suspect'
+      Dialogue: That was a nice talk. Now on to the next suspect
       VoiceLine: {fileID: 0}
     Choices: []
     LeadsTo:

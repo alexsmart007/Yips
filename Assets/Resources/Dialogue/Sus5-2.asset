@@ -10,28 +10,30 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus3-12
+  m_Name: Sus5-2
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus3-12
-    Conversant: Harry Frost
+    ID: Sus5-2
+    Conversant: Robin Mills
     Unlocks: N/A
     Dialogues:
-    - PlayerIsSpeaker: 1
+    - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: But what exactly is off about them?
+      Dialogue: "I signed up because I need research experience for my master\u2019s
+        degree. One of my professors recommended joining this lab, so\u2026 Here
+        I am!"
       VoiceLine: {fileID: 0}
     Choices:
-    - They look off
-    - They talk funny
-    - They sound weird
+    - What is your favorite video game
+    - How do you feel about this situation
+    - What do you think of your family
     LeadsTo:
-    - BranchText: Sus3-Success
+    - BranchText: Sus5-5
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus3-Fail
+    - BranchText: Sus5-6
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus3-Fail
+    - BranchText: Sus5-7
       isPuzzle: 0
       Requirements: []

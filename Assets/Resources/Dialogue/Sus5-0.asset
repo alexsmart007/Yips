@@ -10,19 +10,27 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus4-Success
+  m_Name: Sus5-0
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus4-Success
-    Conversant: Nadine Vincent
-    Unlocks: Sus4_Success
-    Dialogues:
-    - PlayerIsSpeaker: 1
-      VoiceSpeaker: 0
-      Dialogue: That was a nice talk. Now on to the next suspect
-      VoiceLine: {fileID: 0}
+    ID: Sus5-0
+    Conversant: Robin Mills
+    Unlocks: N/A
+    Dialogues: []
     Choices: []
     LeadsTo:
-    - BranchText: Exit
+    - BranchText: Sus5-13
+      isPuzzle: 0
+      Requirements:
+      - label: sus5_success
+        isItemID: 0
+        consumesItem: 0
+    - BranchText: Sus5-13
+      isPuzzle: 0
+      Requirements:
+      - label: sus5_fail
+        isItemID: 0
+        consumesItem: 0
+    - BranchText: Sus5-1
       isPuzzle: 0
       Requirements: []

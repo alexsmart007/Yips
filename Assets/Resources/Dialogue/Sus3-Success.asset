@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conversationData:
     ID: Sus3-Success
-    Conversant: ' Harry Frost'
+    Conversant: Harry Frost
     Unlocks: Sus3_Success
     Dialogues:
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
-      Dialogue: ': Seems like a nice gentleman'
+      Dialogue: Time to move on
       VoiceLine: {fileID: 0}
     Choices: []
     LeadsTo:

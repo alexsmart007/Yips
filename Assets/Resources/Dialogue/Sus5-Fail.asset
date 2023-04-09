@@ -10,16 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus4-Success
+  m_Name: Sus5-Fail
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus4-Success
-    Conversant: Nadine Vincent
-    Unlocks: Sus4_Success
+    ID: Sus5-Fail
+    Conversant: Robin Mills
+    Unlocks: Sus5_Fail
     Dialogues:
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
-      Dialogue: That was a nice talk. Now on to the next suspect
+      Dialogue: ': Great talk'
       VoiceLine: {fileID: 0}
     Choices: []
     LeadsTo:

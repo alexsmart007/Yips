@@ -10,19 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus4-Success
+  m_Name: Sus5-1
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus4-Success
-    Conversant: Nadine Vincent
-    Unlocks: Sus4_Success
+    ID: Sus5-1
+    Conversant: Robin Mills
+    Unlocks: N/A
     Dialogues:
-    - PlayerIsSpeaker: 1
+    - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: That was a nice talk. Now on to the next suspect
+      Dialogue: "Hey\u2026 I\u2019m Robin."
       VoiceLine: {fileID: 0}
-    Choices: []
+    Choices:
+    - Why did you sign up for the project
+    - What is the last thing you remember before this happened?
+    - What's your profession outside of this place?
     LeadsTo:
-    - BranchText: Exit
+    - BranchText: Sus5-2
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus5-3
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus5-4
       isPuzzle: 0
       Requirements: []
