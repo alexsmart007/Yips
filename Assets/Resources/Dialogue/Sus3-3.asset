@@ -10,28 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus2-11
+  m_Name: Sus3-3
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus2-11
-    Conversant: Valorie Pines
+    ID: Sus3-3
+    Conversant: Harry Frost
     Unlocks: N/A
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: Can I go now?
-      VoiceLine: {fileID: 0}
-    - PlayerIsSpeaker: 1
-      VoiceSpeaker: 0
-      Dialogue: Are they guilty?
+      Dialogue: I was grabbing a cup of coffee with Oliver. You can ask him yourself.
       VoiceLine: {fileID: 0}
     Choices:
-    - Seems robotic to me
-    - "I think I\u2019m talking to a human"
+    - What is your favorite video game
+    - How do you feel about this situation
+    - What do you think of your family
     LeadsTo:
-    - BranchText: Sus2-12
+    - BranchText: Sus3-5
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus2-Success
+    - BranchText: Sus3-6
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus3-7
       isPuzzle: 0
       Requirements: []

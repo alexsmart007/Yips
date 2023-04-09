@@ -10,28 +10,21 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus2-11
+  m_Name: Sus3-8
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus2-11
-    Conversant: Valorie Pines
+    ID: Sus3-8
+    Conversant: Harry Frost
     Unlocks: N/A
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: Can I go now?
-      VoiceLine: {fileID: 0}
-    - PlayerIsSpeaker: 1
-      VoiceSpeaker: 0
-      Dialogue: Are they guilty?
+      Dialogue: "Since this is my full-time job, I\u2019ll be seeking out another
+        research position. It\u2019s a shame this one was compromised."
       VoiceLine: {fileID: 0}
     Choices:
-    - Seems robotic to me
-    - "I think I\u2019m talking to a human"
+    - Thank you for your time
     LeadsTo:
-    - BranchText: Sus2-12
-      isPuzzle: 0
-      Requirements: []
-    - BranchText: Sus2-Success
+    - BranchText: Sus3-11
       isPuzzle: 0
       Requirements: []
