@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: d511b07a63095d64b903087ba974a625
+guid: f2a4fd3e3ca39c04db0896bb39d80ec2
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -104,13 +104,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: player_0
+      name: lab_guy_0
       rect:
         serializedVersion: 2
         x: 0
         y: 144
         width: 16
-        height: 34
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,20 +118,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62bc8c866ec329245aec5ebcb592cb78
-      internalID: -404734542
+      spriteID: 639408f19242d59468862c8e30bcfc8c
+      internalID: 1758349642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_1
+      name: lab_guy_1
       rect:
         serializedVersion: 2
         x: 32
         y: 144
         width: 16
-        height: 34
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -139,20 +139,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a22524903c6b14447b12174076c9a4d2
-      internalID: -403393547
+      spriteID: 61448fb3353ceff44955c48dee566917
+      internalID: 1908139191
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_2
+      name: lab_guy_2
       rect:
         serializedVersion: 2
         x: 64
         y: 144
         width: 16
-        height: 34
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +160,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7342048a9b544d9448954d0b4307f8b8
-      internalID: -1988652734
+      spriteID: eee0eb221cf027244934c8ffa427d716
+      internalID: -1830495431
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_3
+      name: lab_guy_3
       rect:
         serializedVersion: 2
         x: 0
         y: 96
         width: 16
-        height: 34
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +181,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb4518ab0baa8464abff6607d6a44d67
-      internalID: 480034105
+      spriteID: 1cce55e24f4b831448c26112c12914b7
+      internalID: -830051983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_4
+      name: lab_guy_4
       rect:
         serializedVersion: 2
         x: 32
         y: 96
         width: 16
-        height: 34
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -202,20 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c9b87bb5573396d43a844a830a67ea99
-      internalID: 296203790
+      spriteID: d38692bc71353504aa016c5543254f5f
+      internalID: -855443240
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_5
+      name: lab_guy_5
       rect:
         serializedVersion: 2
         x: 64
         y: 96
         width: 16
-        height: 34
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -223,20 +223,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2ede096ed9d7d6a4f9a9ba37efa3898f
-      internalID: 1442710186
+      spriteID: 5a197fc47c0197841bfe01966671547b
+      internalID: -105894091
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_6
+      name: lab_guy_6
       rect:
         serializedVersion: 2
         x: 0
         y: 48
         width: 16
-        height: 34
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,20 +244,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ab29556c68c7f540a05f3623940ee34
-      internalID: 1860022667
+      spriteID: f43718081c063d340851d8d11e4276b2
+      internalID: -2092763917
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_7
+      name: lab_guy_7
       rect:
         serializedVersion: 2
         x: 32
         y: 48
         width: 16
-        height: 34
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -265,20 +265,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8bbb71c52c3e55e45a5ef19636f039b1
-      internalID: -1700633624
+      spriteID: 6c2bb08f8896be948914b49e3696ff79
+      internalID: 2090321469
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_8
+      name: lab_guy_8
       rect:
         serializedVersion: 2
         x: 64
         y: 48
         width: 16
-        height: 34
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -286,20 +286,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf4e0803b8e54c84597d30fe7020fb77
-      internalID: 1560686970
+      spriteID: ce50c30a49ab70e4f8bff43e2f22ebb1
+      internalID: -1672325015
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_9
+      name: lab_guy_9
       rect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 16
-        height: 34
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,20 +307,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c67cd04aec4f7814288bc68d8cfe7210
-      internalID: 1272994592
+      spriteID: 3d092dbfd97411846a33558c15f413e1
+      internalID: 1949832549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_10
+      name: lab_guy_10
       rect:
         serializedVersion: 2
         x: 32
         y: 0
         width: 16
-        height: 34
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -328,20 +328,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b8ecf6dca04f7ab4e97b60132d77cd6b
-      internalID: 155515393
+      spriteID: 995e0962b49029f45837bc260afbfaef
+      internalID: 1313720759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: player_11
+      name: lab_guy_11
       rect:
         serializedVersion: 2
         x: 64
         y: 0
         width: 16
-        height: 34
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,8 +349,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d336bc41d79e6fb468a1ecd45ba05928
-      internalID: 1346657375
+      spriteID: ad1b91723a9b0cb43aee95e023ba79f7
+      internalID: -1808296588
       vertices: []
       indices: 
       edges: []
@@ -366,18 +366,18 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      player_1: -403393547
-      player_8: 1560686970
-      player_4: 296203790
-      player_5: 1442710186
-      player_0: -404734542
-      player_9: 1272994592
-      player_3: 480034105
-      player_6: 1860022667
-      player_10: 155515393
-      player_2: -1988652734
-      player_11: 1346657375
-      player_7: -1700633624
+      lab_guy_11: -1808296588
+      lab_guy_4: -855443240
+      lab_guy_6: -2092763917
+      lab_guy_5: -105894091
+      lab_guy_10: 1313720759
+      lab_guy_9: 1949832549
+      lab_guy_2: -1830495431
+      lab_guy_3: -830051983
+      lab_guy_8: -1672325015
+      lab_guy_1: 1908139191
+      lab_guy_7: 2090321469
+      lab_guy_0: 1758349642
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
