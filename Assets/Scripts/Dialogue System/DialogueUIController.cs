@@ -35,7 +35,7 @@ public class DialogueUIController : SerializedMonoBehaviour
     private void DisplayUI(ConversationData conversation)
     {
         leftPortrait.Display(conversation.Conversant);
-        rightPortrait.Display("wick");
+        rightPortrait.Display("detective birch");
         textBoxDisplay.Display();
         DialogueManager.OnTextUpdated += textBoxDisplay.UpdateDialogueText;
     }

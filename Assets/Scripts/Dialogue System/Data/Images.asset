@@ -43,7 +43,7 @@ MonoBehaviour:
       Data: 
     - Name: $k
       Entry: 1
-      Data: Haven Quinn
+      Data: haven quinn
     - Name: $v
       Entry: 10
       Data: 0
@@ -55,7 +55,7 @@ MonoBehaviour:
       Data: 
     - Name: $k
       Entry: 1
-      Data: Valorie Pines
+      Data: valorie pines
     - Name: $v
       Entry: 10
       Data: 1
@@ -67,7 +67,7 @@ MonoBehaviour:
       Data: 
     - Name: $k
       Entry: 1
-      Data: Detective Brich
+      Data: detective birch
     - Name: $v
       Entry: 10
       Data: 2
