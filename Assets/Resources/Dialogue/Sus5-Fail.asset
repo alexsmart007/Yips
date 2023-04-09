@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
-      Dialogue: ': Great talk'
+      Dialogue: Great talk
       VoiceLine: {fileID: 0}
     Choices: []
     LeadsTo:

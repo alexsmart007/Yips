@@ -10,20 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus5-13
+  m_Name: Sus6-1
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus5-13
-    Conversant: N/A
+    ID: Sus6-1
+    Conversant: Reese Foster
     Unlocks: N/A
     Dialogues:
-    - PlayerIsSpeaker: 1
+    - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I\u2019ve already talked to this person, I need to move on to the
-        other suspects."
+      Dialogue: What is it now?
       VoiceLine: {fileID: 0}
-    Choices: []
+    Choices:
+    - Why did you sign up for the project
+    - What is the last thing you remember before this happened?
+    - What's your profession outside of this place?
     LeadsTo:
-    - BranchText: Exit
+    - BranchText: Sus6-2
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus6-3
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus6-4
       isPuzzle: 0
       Requirements: []

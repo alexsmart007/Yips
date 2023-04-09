@@ -23,7 +23,7 @@ MonoBehaviour:
       VoiceLine: {fileID: 0}
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
-      Dialogue: ': Are they guilty?'
+      Dialogue: Are they guilty?
       VoiceLine: {fileID: 0}
     Choices:
     - "That\u2019s definitely a robot"

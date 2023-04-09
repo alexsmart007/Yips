@@ -10,20 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus5-13
+  m_Name: Sus7-1
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus5-13
-    Conversant: N/A
+    ID: Sus7-1
+    Conversant: Jupiter Ocean
     Unlocks: N/A
     Dialogues:
-    - PlayerIsSpeaker: 1
+    - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I\u2019ve already talked to this person, I need to move on to the
-        other suspects."
+      Dialogue: Hiya sir what can I do for you?
       VoiceLine: {fileID: 0}
-    Choices: []
+    Choices:
+    - Why did you sign up for the project
+    - What is the last thing you remember before this happened?
+    - What's your profession outside of this place?
     LeadsTo:
-    - BranchText: Exit
+    - BranchText: Sus7-2
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus7-3
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus7-4
       isPuzzle: 0
       Requirements: []

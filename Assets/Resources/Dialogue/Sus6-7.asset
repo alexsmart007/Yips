@@ -10,20 +10,29 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus5-13
+  m_Name: Sus6-7
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus5-13
-    Conversant: N/A
+    ID: Sus6-7
+    Conversant: Reese Foster
     Unlocks: N/A
     Dialogues:
-    - PlayerIsSpeaker: 1
+    - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I\u2019ve already talked to this person, I need to move on to the
-        other suspects."
+      Dialogue: My family are all worth far more then any of the people in this room
+        .
       VoiceLine: {fileID: 0}
-    Choices: []
+    Choices:
+    - What are you gonna do when you leave here
+    - What is your dream job
+    - Are you scared of death
     LeadsTo:
-    - BranchText: Exit
+    - BranchText: Sus6-8
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus6-9
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus6-10
       isPuzzle: 0
       Requirements: []

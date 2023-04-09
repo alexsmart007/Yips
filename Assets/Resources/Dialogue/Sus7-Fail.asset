@@ -10,17 +10,16 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus5-13
+  m_Name: Sus7-Fail
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus5-13
-    Conversant: N/A
-    Unlocks: N/A
+    ID: Sus7-Fail
+    Conversant: Jupiter Ocean
+    Unlocks: Sus7_Fail
     Dialogues:
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
-      Dialogue: "I\u2019ve already talked to this person, I need to move on to the
-        other suspects."
+      Dialogue: Finished with that one, time to continue
       VoiceLine: {fileID: 0}
     Choices: []
     LeadsTo:

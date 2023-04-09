@@ -10,20 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus5-13
+  m_Name: Sus6-11
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus5-13
-    Conversant: N/A
+    ID: Sus6-11
+    Conversant: Reese Foster
     Unlocks: N/A
     Dialogues:
+    - PlayerIsSpeaker: 0
+      VoiceSpeaker: 0
+      Dialogue: "Try to hurry this whole thing up why don\u2019t you"
+      VoiceLine: {fileID: 0}
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
-      Dialogue: "I\u2019ve already talked to this person, I need to move on to the
-        other suspects."
+      Dialogue: Are they guilty?
       VoiceLine: {fileID: 0}
-    Choices: []
+    Choices:
+    - "That\u2019s definitely a robot"
+    - "That\u2019s a human"
     LeadsTo:
-    - BranchText: Exit
+    - BranchText: Sus6-12
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus6-Fail
       isPuzzle: 0
       Requirements: []
