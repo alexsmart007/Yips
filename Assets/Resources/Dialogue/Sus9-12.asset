@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus5-12
+  m_Name: Sus9-12
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus5-12
-    Conversant: Robin Mills
+    ID: Sus9-12
+    Conversant: Oliver Hayes
     Unlocks: N/A
     Dialogues:
     - PlayerIsSpeaker: 1
@@ -26,12 +26,12 @@ MonoBehaviour:
     - They talk funny
     - They sound weird
     LeadsTo:
-    - BranchText: Sus5-Success
+    - BranchText: Sus9-Fail
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus5-Fail
+    - BranchText: Sus9-Success
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus5-Fail
+    - BranchText: Sus9-Fail
       isPuzzle: 0
       Requirements: []

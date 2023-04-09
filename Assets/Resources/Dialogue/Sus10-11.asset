@@ -10,28 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus5-12
+  m_Name: Sus10-11
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus5-12
-    Conversant: Robin Mills
+    ID: Sus10-11
+    Conversant: Damian Blackwood
     Unlocks: N/A
     Dialogues:
+    - PlayerIsSpeaker: 0
+      VoiceSpeaker: 0
+      Dialogue: No problemo, man. Happy to help if I can.
+      VoiceLine: {fileID: 0}
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
-      Dialogue: They are AI but what about them is AI?
+      Dialogue: Are they guilty?
       VoiceLine: {fileID: 0}
     Choices:
-    - They look off
-    - They talk funny
-    - They sound weird
+    - "That\u2019s definitely a robot"
+    - "That\u2019s a human"
     LeadsTo:
-    - BranchText: Sus5-Success
+    - BranchText: Sus10-12
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus5-Fail
-      isPuzzle: 0
-      Requirements: []
-    - BranchText: Sus5-Fail
+    - BranchText: Sus10-Fail
       isPuzzle: 0
       Requirements: []

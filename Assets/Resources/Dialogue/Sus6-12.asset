@@ -29,9 +29,9 @@ MonoBehaviour:
     - BranchText: Sus6-Fail
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus6-Success
+    - BranchText: Sus6-Fail
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus6-Fail
+    - BranchText: Sus6-Success
       isPuzzle: 0
       Requirements: []

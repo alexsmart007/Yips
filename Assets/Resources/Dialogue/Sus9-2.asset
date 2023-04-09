@@ -10,28 +10,31 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus5-12
+  m_Name: Sus9-2
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus5-12
-    Conversant: Robin Mills
+    ID: Sus9-2
+    Conversant: Oliver Hayes
     Unlocks: N/A
     Dialogues:
-    - PlayerIsSpeaker: 1
+    - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: They are AI but what about them is AI?
+      Dialogue: It's such a cool opportunity to be working with some of the brightest
+        minds in the field and to be a part of cutting-edge research. I really believe
+        that AI has the potential to change the world for the better, and I'm thrilled
+        to be a part of it all.
       VoiceLine: {fileID: 0}
     Choices:
-    - They look off
-    - They talk funny
-    - They sound weird
+    - What is your favorite video game
+    - How do you feel about this situation
+    - What do you think of your family
     LeadsTo:
-    - BranchText: Sus5-Success
+    - BranchText: Sus9-5
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus5-Fail
+    - BranchText: Sus9-6
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus5-Fail
+    - BranchText: Sus9-7
       isPuzzle: 0
       Requirements: []

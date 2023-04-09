@@ -26,10 +26,10 @@ MonoBehaviour:
     - They talk funny
     - They sound weird
     LeadsTo:
-    - BranchText: Sus7-Fail
+    - BranchText: Sus7-Success
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus7-Success
+    - BranchText: Sus7-Fail
       isPuzzle: 0
       Requirements: []
     - BranchText: Sus7-Fail

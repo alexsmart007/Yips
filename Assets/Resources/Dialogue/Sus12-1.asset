@@ -10,28 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus5-12
+  m_Name: Sus12-1
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus5-12
-    Conversant: Robin Mills
+    ID: Sus12-1
+    Conversant: Taylor Harper
     Unlocks: N/A
     Dialogues:
-    - PlayerIsSpeaker: 1
+    - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: They are AI but what about them is AI?
+      Dialogue: Hey, busy with coding, no biggie.
       VoiceLine: {fileID: 0}
     Choices:
-    - They look off
-    - They talk funny
-    - They sound weird
+    - Why did you sign up for the project
+    - What is the last thing you remember before this happened?
+    - What's your profession outside of this place?
     LeadsTo:
-    - BranchText: Sus5-Success
+    - BranchText: Sus12-2
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus5-Fail
+    - BranchText: Sus12-3
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus5-Fail
+    - BranchText: Sus12-4
       isPuzzle: 0
       Requirements: []

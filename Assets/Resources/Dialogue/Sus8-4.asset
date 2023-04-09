@@ -10,28 +10,29 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus5-12
+  m_Name: Sus8-4
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus5-12
-    Conversant: Robin Mills
+    ID: Sus8-4
+    Conversant: Kiki
     Unlocks: N/A
     Dialogues:
-    - PlayerIsSpeaker: 1
+    - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: They are AI but what about them is AI?
+      Dialogue: "I help Luna a lot with her schoolwork and I\u2019m studying to be
+        a nurse, but I\u2019m also a fantastic singer! I hope to make it big someday!"
       VoiceLine: {fileID: 0}
     Choices:
-    - They look off
-    - They talk funny
-    - They sound weird
+    - What is your favorite video game
+    - How do you feel about this situation
+    - What do you think of your family
     LeadsTo:
-    - BranchText: Sus5-Success
+    - BranchText: Sus8-5
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus5-Fail
+    - BranchText: Sus8-6
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus5-Fail
+    - BranchText: Sus8-7
       isPuzzle: 0
       Requirements: []
