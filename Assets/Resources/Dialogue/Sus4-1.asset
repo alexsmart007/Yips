@@ -10,20 +10,28 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus3-13
+  m_Name: Sus4-1
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus3-13
-    Conversant: N/A
+    ID: Sus4-1
+    Conversant: Nadine Vincent
     Unlocks: N/A
     Dialogues:
-    - PlayerIsSpeaker: 1
+    - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I think I\u2019ve talked to this man before. I need to move on to
-        the other suspects."
+      Dialogue: "Hello! I\u2019m Nadine!"
       VoiceLine: {fileID: 0}
-    Choices: []
+    Choices:
+    - Why did you sign up for the project
+    - What is the last thing you remember before this happened?
+    - What's your profession outside of this place?
     LeadsTo:
-    - BranchText: Exit
+    - BranchText: Sus4-2
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus4-3
+      isPuzzle: 0
+      Requirements: []
+    - BranchText: Sus4-4
       isPuzzle: 0
       Requirements: []

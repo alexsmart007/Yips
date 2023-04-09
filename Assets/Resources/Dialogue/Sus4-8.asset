@@ -10,20 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
-  m_Name: Sus3-13
+  m_Name: Sus4-8
   m_EditorClassIdentifier: 
   conversationData:
-    ID: Sus3-13
-    Conversant: N/A
+    ID: Sus4-8
+    Conversant: Nadine Vincent
     Unlocks: N/A
     Dialogues:
-    - PlayerIsSpeaker: 1
+    - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I think I\u2019ve talked to this man before. I need to move on to
-        the other suspects."
+      Dialogue: "I\u2019m going to go home and make dinner for my partner and me.
+        I feel like we\u2019ve both had a long day and just need to take it easy
+        for the rest of the night, so that\u2019s the plan."
       VoiceLine: {fileID: 0}
-    Choices: []
+    Choices:
+    - Thank you for your time
     LeadsTo:
-    - BranchText: Exit
+    - BranchText: Sus4-11
       isPuzzle: 0
       Requirements: []
