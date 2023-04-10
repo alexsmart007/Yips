@@ -63,10 +63,14 @@ public class SuccessRateSystem : MonoBehaviour
         return successRate;
     }
 
-    private IEnumerator TimeBeforeQuit()
+    public void Quit()
     {
-        yield return new WaitForSecondsRealtime(timeBeforeQuit);
         Application.Quit();
+    }
+
+    public void Restart()
+    {
+        StartCoroutine(SceneTools.TransitionToScene(0));
     }
 
 
@@ -80,7 +84,6 @@ public class SuccessRateSystem : MonoBehaviour
             failText.SetActive(true);
             successRateText.SetActive(true);
             EndText.SetActive(true);
-            StartCoroutine(TimeBeforeQuit());
         }
         SuccessText.text = "Number Of Successful Deductions:                " + success;
         FailText.text = "Number Of Failed Deductions:                    " + fail;
