@@ -2,7 +2,6 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
 using UnityEngine;
-using TMPro;
 
 public class SuccessRateSystem : MonoBehaviour
 {
@@ -11,30 +10,13 @@ public class SuccessRateSystem : MonoBehaviour
     private int success;
     private int fail;
 
-    [SerializeField] private GameObject successText;
-    [SerializeField] private GameObject failText;
-    [SerializeField] private GameObject successRateText;
-    [SerializeField] private GameObject EndText;
+    [SerializeField] private SuccessData data;
 
     [SerializeField] private int totalNumberOfSuspects;
     [SerializeField] private float timeToFade;
     [SerializeField] private float timeBeforeQuit;
 
-    private TextMeshProUGUI SuccessText;
-    private TextMeshProUGUI FailText;
-    private TextMeshProUGUI SuccessRateText;
-
     private List<string> unlocks;
-
-    void Start()
-    {
-        SuccessText = successText.GetComponent<TextMeshProUGUI>();
-        SuccessText.text = "Number Of Successful Deductions: 0";
-        FailText = failText.GetComponent<TextMeshProUGUI>();
-        FailText.text = "Number Of Failed Deductions: 0";
-        SuccessRateText = successRateText.GetComponent<TextMeshProUGUI>();
-        SuccessRateText.text = "Ultimate Success Rate: 0%";
-    }
 
 
     public float CalculateSuccessRate()
@@ -63,14 +45,9 @@ public class SuccessRateSystem : MonoBehaviour
         return successRate;
     }
 
-    public void Quit()
+    public void NextScene()
     {
-        Application.Quit();
-    }
-
-    public void Restart()
-    {
-        StartCoroutine(SceneTools.TransitionToScene(0));
+        StartCoroutine(SceneTools.TransitionToScene(SceneTools.NextSceneIndex));
     }
 
 
@@ -79,17 +56,11 @@ public class SuccessRateSystem : MonoBehaviour
         CalculateSuccessRate();
         if (success + fail >= totalNumberOfSuspects)
         {
-            StartCoroutine(FadeToBlackSystem.TryCueFadeInToBlack(timeToFade));
-            successText.SetActive(true);
-            failText.SetActive(true);
-            successRateText.SetActive(true);
-            EndText.SetActive(true);
+            //StartCoroutine(FadeToBlackSystem.TryCueFadeInToBlack(timeToFade));
+            NextScene();
+            data.successes = success;
+            data.fails = fail;
         }
-        SuccessText.text = "Number Of Successful Deductions:                " + success;
-        FailText.text = "Number Of Failed Deductions:                    " + fail;
-        SuccessRateText.text = "Ultimate Success Rate:                   " + successRate + "%";
 
     }
-
-
 }

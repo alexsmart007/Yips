@@ -2049,25 +2049,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 588468792}
   m_CullTransparentMesh: 1
---- !u!114 &647614527
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 838850301}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e657c71e9cf23b74ab5bfc7732c8bebe, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  successText: {fileID: 2047233833}
-  failText: {fileID: 588468792}
-  successRateText: {fileID: 849422434}
-  EndText: {fileID: 736733705}
-  totalNumberOfSuspects: 16
-  timeToFade: 2
-  timeBeforeQuit: 2
 --- !u!4 &647614528
 Transform:
   m_ObjectHideFlags: 0
@@ -2693,7 +2674,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 647614528}
-  - component: {fileID: 647614527}
+  - component: {fileID: 838850302}
   m_Layer: 0
   m_Name: SuccessRate
   m_TagString: Untagged
@@ -2701,6 +2682,22 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &838850302
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 838850301}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d75e5ffc06ed24d42a5996c5f28bf23a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  successText: {fileID: 588468794}
+  failText: {fileID: 849422436}
+  successRateText: {fileID: 736733707}
+  data: {fileID: 11400000, guid: 15c5e164bf37e7146a760f3eea6d86fb, type: 2}
 --- !u!1 &840464805
 GameObject:
   m_ObjectHideFlags: 0
@@ -3452,7 +3449,7 @@ GameObject:
   - component: {fileID: 907213096}
   - component: {fileID: 907213095}
   m_Layer: 5
-  m_Name: Canvas
+  m_Name: Results Display
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4054,8 +4051,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 647614527}
-        m_TargetAssemblyTypeName: SuccessRateSystem, Assembly-CSharp
+      - m_Target: {fileID: 838850302}
+        m_TargetAssemblyTypeName: ResultsHandler, Assembly-CSharp
         m_MethodName: Restart
         m_Mode: 1
         m_Arguments:
@@ -6252,8 +6249,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 647614527}
-        m_TargetAssemblyTypeName: SuccessRateSystem, Assembly-CSharp
+      - m_Target: {fileID: 838850302}
+        m_TargetAssemblyTypeName: ResultsHandler, Assembly-CSharp
         m_MethodName: Quit
         m_Mode: 1
         m_Arguments:
@@ -7131,4 +7128,4 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
