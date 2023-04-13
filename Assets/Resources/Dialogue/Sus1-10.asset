@@ -19,7 +19,8 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: No
+      Dialogue: No.
+      VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time
     LeadsTo:

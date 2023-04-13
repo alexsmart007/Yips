@@ -19,7 +19,8 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: Oh um hey there. What can I help you with?
+      Dialogue: Oh, um, hey there. What can I help you with?
+      VoiceLine: {fileID: 0}
     Choices:
     - Why did you sign up for the project
     - What is the last thing you remember before this happened?
