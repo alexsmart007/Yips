@@ -22,9 +22,9 @@ MonoBehaviour:
       Dialogue: "They\u2019re artificial, but what\u2019s off about them?"
       VoiceLine: {fileID: 0}
     Choices:
-    - Their appearance is unnatural.
+    - Their appearance is uncanny.
     - The words they're saying are unnatural.
-    - The sound of their voice is unnatural.
+    - The sound of their voice is strange.
     LeadsTo:
     - BranchText: Sus2-Fail
       isPuzzle: 0
