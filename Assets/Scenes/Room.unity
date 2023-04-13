@@ -3785,12 +3785,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   newSelectionTransform: {fileID: 0}
   distanceThreshold: 30
-  interactiveCursorTexture: {fileID: 2800000, guid: 4c7dddea8379f4c49926fd4c65710885, type: 3}
+  interactiveCursorTexture: {fileID: 2800000, guid: 3006ed70da23f0840be47666e3a7b85d, type: 3}
   interactSound: {fileID: 838850300}
   interactables:
   - {fileID: 523249114}
   - {fileID: 895590484}
   - {fileID: 1309826672}
+  - {fileID: 708025369}
+  - {fileID: 422322315}
+  - {fileID: 1893966609}
+  - {fileID: 1446185509}
+  - {fileID: 1571302681}
+  - {fileID: 1001973587}
+  - {fileID: 726135828}
+  - {fileID: 1201322412}
+  - {fileID: 1601218978}
   mainCamera: {fileID: 519420031}
 --- !u!4 &981880575
 Transform:
@@ -4314,7 +4323,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2851539958403274705, guid: e39028e36ec2d3f4ab5512deaddf6d27, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4423170267889935186, guid: e39028e36ec2d3f4ab5512deaddf6d27, type: 3}
       propertyPath: m_SizeDelta.x
