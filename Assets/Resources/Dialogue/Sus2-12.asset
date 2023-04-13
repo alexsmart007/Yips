@@ -19,11 +19,12 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
-      Dialogue: "They\u2019re artificial but what\u2019s off about them?"
+      Dialogue: "They\u2019re artificial, but what\u2019s off about them?"
+      VoiceLine: {fileID: 0}
     Choices:
-    - They look off
-    - They talk funny
-    - They sound weird
+    - Their appearance is unnatural.
+    - The words they're saying are unnatural.
+    - The sound of their voice is unnatural.
     LeadsTo:
     - BranchText: Sus2-Fail
       isPuzzle: 0

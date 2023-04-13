@@ -19,7 +19,8 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
-      Dialogue: Done with this one then
+      Dialogue: On to the next suspect...
+      VoiceLine: {fileID: 0}
     Choices: []
     LeadsTo:
     - BranchText: Exit

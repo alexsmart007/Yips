@@ -19,8 +19,9 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "Oh I don\u2019t know, go on a murder spree or something? Honestly,
+      Dialogue: "Oh, I don\u2019t know. Go on a murder spree or something? Honestly,
         what do you think I\u2019m gonna do?"
+      VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time
     LeadsTo:
