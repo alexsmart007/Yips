@@ -19,9 +19,10 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: I have always been interested in AI, it truly is a unique subject
+      Dialogue: I have always been interested in AI. It truly is a unique subject
         matter that we should all be looking into more. I figured that through working
-        here I would be able to boost my own skills
+        here, I would be able to boost my own skills.
+      VoiceLine: {fileID: 0}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

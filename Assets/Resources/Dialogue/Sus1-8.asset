@@ -19,8 +19,9 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: Tonight I have a few more programming assignments to work through
-        and then I will most likely work on analyzing last weeks data
+      Dialogue: Tonight I have a few more programming assignments to work through,
+        and then I will most likely work on analyzing last week's data.
+      VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time
     LeadsTo:

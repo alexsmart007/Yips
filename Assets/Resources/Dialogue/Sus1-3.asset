@@ -20,7 +20,8 @@ MonoBehaviour:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
       Dialogue: I was in the lab testing Valorie by showing some slides and having
-        her determine which were AI and which were real
+        her determine which were AI and which were real.
+      VoiceLine: {fileID: 0}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation
