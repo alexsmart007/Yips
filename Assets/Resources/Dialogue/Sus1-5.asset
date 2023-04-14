@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: I quite like playing persona 5 in my free time.
+      Dialogue: I quite like playing 'Persona 5' in my free time.
       VoiceLine: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here
