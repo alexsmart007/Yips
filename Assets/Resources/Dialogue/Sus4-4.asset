@@ -19,8 +19,8 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: I work at an Orthopedic shoe store not too far from here. Fortunately
-        the clients I get to work with are polite and friendly and I really like
+      Dialogue: I work at an Orthopedic shoe store not too far from here. Fortunately,
+        the clients I get to work with are polite and friendly, and I really like
         my job most days.
       VoiceLine: {fileID: 0}
     Choices:
