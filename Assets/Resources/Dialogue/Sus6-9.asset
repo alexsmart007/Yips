@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "What I\u2019m doing now\u2026supervising one might say"
+      Dialogue: "What I\u2019m doing now\u2026 supervising, one might say."
       VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time

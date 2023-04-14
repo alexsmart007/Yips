@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "Try to hurry this whole thing up why don\u2019t you"
+      Dialogue: "Try to hurry this whole thing up, why don\u2019t you?"
       VoiceLine: {fileID: 0}
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0

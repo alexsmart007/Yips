@@ -20,7 +20,7 @@ MonoBehaviour:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
       Dialogue: I was quite curious what you all were studying and figured you all
-        could use a little bit of financial assistance
+        could use a little bit of financial assistance.
       VoiceLine: {fileID: 0}
     Choices:
     - What is your favorite video game

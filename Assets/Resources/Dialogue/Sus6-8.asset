@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I just have a few\u2026errands\u2026to attend to"
+      Dialogue: "I just have a few\u2026 errands\u2026 to attend to."
       VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time
