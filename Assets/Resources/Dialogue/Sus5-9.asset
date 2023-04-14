@@ -20,7 +20,7 @@ MonoBehaviour:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
       Dialogue: "I admire my professors more than anyone else, so I guess my dream
-        job would be to teach, just like them. I don\u2019t know, I\u2019ll probably
+        job would be to teach just like them. I don\u2019t know. I\u2019ll probably
         have a better idea after I graduate."
       VoiceLine: {fileID: 0}
     Choices:

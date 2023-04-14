@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: Not much. I was eating lunch and then my partner called to check
+      Dialogue: Not much. I was eating lunch, and then my partner called to check
         up on me.
       VoiceLine: {fileID: 0}
     Choices:

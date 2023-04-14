@@ -22,9 +22,9 @@ MonoBehaviour:
       Dialogue: But what exactly is off about them?
       VoiceLine: {fileID: 0}
     Choices:
-    - They look off
-    - They talk funny
-    - They sound weird
+    - Their appearance is uncanny.
+    - The words they're saying are unnatural.
+    - The sound of their voice is strange.
     LeadsTo:
     - BranchText: Sus3-Success
       isPuzzle: 0
