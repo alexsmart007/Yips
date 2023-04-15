@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
+  m_Name: Sus15-8
+  m_EditorClassIdentifier: 
+  conversationData:
+    ID: Sus15-8
+    Conversant: Trevor Voltez
+    Unlocks: N/A
+    Dialogues:
+    - PlayerIsSpeaker: 0
+      VoiceSpeaker: 0
+      Dialogue: "Probably come back tomorrow. Not because I want to or anything\u2026"
+      VoiceLine: {fileID: 0}
+    Choices:
+    - Thank you for your time
+    LeadsTo:
+    - BranchText: Sus15-11
+      isPuzzle: 0
+      Requirements: []

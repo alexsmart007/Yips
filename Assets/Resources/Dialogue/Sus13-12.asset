@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conversationData:
     ID: Sus13-12
-    Conversant: Taylor Harper
+    Conversant: Lawrence Knolls
     Unlocks: N/A
     Dialogues:
     - PlayerIsSpeaker: 1
@@ -29,7 +29,7 @@ MonoBehaviour:
     - BranchText: Sus13-Fail
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus13-Success
+    - BranchText: Sus13-Fail
       isPuzzle: 0
       Requirements: []
     - BranchText: Sus13-Fail

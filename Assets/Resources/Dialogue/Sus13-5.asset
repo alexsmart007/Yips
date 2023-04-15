@@ -14,14 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conversationData:
     ID: Sus13-5
-    Conversant: Taylor Harper
+    Conversant: Lawrence Knolls
     Unlocks: N/A
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: Dude, I can't get enough of 'CyberRush'. It's this sick multiplayer
-        game with futuristic vibes and wicked cool graphics. Totally addicted to
-        it, man.
+      Dialogue: "Hmph\u2026 haven\u2019t played a game in decades. I\u2019m more
+        of a poker kind of guy, but I suppose I used to really like Asteroids."
       VoiceLine: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conversationData:
     ID: Sus13-8
-    Conversant: Taylor Harper
+    Conversant: Lawrence Knolls
     Unlocks: N/A
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: Gonna go back to my coding projects and gaming, for sure. Got a lot
-        of catching up to do. Can't wait to dive back into my tech world.
+      Dialogue: "I wish I could tell you. Get as far away from here as possible,
+        that\u2019s the only thing I know."
       VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time

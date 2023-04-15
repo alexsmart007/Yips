@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conversationData:
     ID: Sus13-1
-    Conversant: Taylor Harper
+    Conversant: Lawrence Knolls
     Unlocks: N/A
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: Hey, busy with coding, no biggie.
+      Dialogue: "What\u2019s it to you?"
       VoiceLine: {fileID: 0}
     Choices:
     - Why did you sign up for the project
