@@ -19,9 +19,9 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "My favorite game is \u2018Pok\xE9mon FireRed\u2019! I used to play
-        it all the time as a little kid, but now I barely have time to play anything
-        with school."
+      Dialogue: "My favorite game is 'Pok\xE9mon FireRed!' I used to play it all
+        the time as a little kid, but now I barely have time to play anything with
+        school."
       VoiceLine: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here

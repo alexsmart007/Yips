@@ -20,7 +20,7 @@ MonoBehaviour:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
       Dialogue: I help around the neighborhood and am a high schooler at Carnegie
-        High
+        High.
       VoiceLine: {fileID: 0}
     Choices:
     - What is your favorite video game

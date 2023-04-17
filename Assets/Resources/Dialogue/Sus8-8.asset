@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: I will go to nursing school, or maybe I will travel the world and
+      Dialogue: I will go to nursing school, or, maybe, I will travel the world and
         become a famous pop star!
       VoiceLine: {fileID: 0}
     Choices:

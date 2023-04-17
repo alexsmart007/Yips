@@ -19,8 +19,8 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "Honestly, I haven\u2019t thought that much about my future, kinda
-        a far ways off for me right now"
+      Dialogue: "Honestly, I haven\u2019t thought that much about my future. Kind
+        of a far way off for me right now."
       VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time

@@ -20,7 +20,7 @@ MonoBehaviour:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
       Dialogue: My family is so awesome! My sister and I may have grown up in a tough
-        place, but we always help each other and our parents have always been supportive!
+        place, but we always help each other, and our parents have always been supportive!
       VoiceLine: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here

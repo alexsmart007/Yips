@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: Luna and I were testing one of the samples. She was pretty excited
+      Dialogue: Luna and I were testing one of the samples. She was pretty excited,
         so I think we were close to something big!
       VoiceLine: {fileID: 0}
     Choices:
