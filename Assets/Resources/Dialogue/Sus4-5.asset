@@ -20,7 +20,7 @@ MonoBehaviour:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
       Dialogue: "I don\u2019t usually play video games unless it\u2019s with my partner.
-        Although, last week we did play \u2018Minecraft\u2019 together."
+        Although, last week we did play 'Minecraft' together."
       VoiceLine: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here
