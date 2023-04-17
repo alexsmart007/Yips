@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "Hope you\u2019re able to figure out whatever is troubling you, sir"
+      Dialogue: "Hope you\u2019re able to figure out whatever is troubling you, sir."
       VoiceLine: {fileID: 0}
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
