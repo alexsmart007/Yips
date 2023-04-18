@@ -19,8 +19,8 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I don\u2019t have much family now, they were nice while they were
-        around I guess. We never had a lot growing up though."
+      Dialogue: "I don\u2019t have much family now. They were nice while they were
+        around, I guess. We never had a lot growing up, though."
       VoiceLine: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here

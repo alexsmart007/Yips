@@ -20,7 +20,7 @@ MonoBehaviour:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
       Dialogue: "Hmph\u2026 haven\u2019t played a game in decades. I\u2019m more
-        of a poker kind of guy, but I suppose I used to really like Asteroids."
+        of a poker kind of guy, but I suppose I used to really like 'Asteroids.'"
       VoiceLine: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here
