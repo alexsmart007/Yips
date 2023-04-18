@@ -20,7 +20,7 @@ MonoBehaviour:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
       Dialogue: Honestly, I would be satisfied if I could just get one that I could
-        rely on
+        rely on.
       VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time

@@ -19,8 +19,8 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: I am gonna head back to my place and probably head straight to bed,
-        I have a long day ahead of me tomorrow
+      Dialogue: I am gonna head back to my place and probably head straight to bed.
+        I have a long day ahead of me tomorrow.
       VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time
