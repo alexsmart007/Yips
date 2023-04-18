@@ -20,7 +20,7 @@ MonoBehaviour:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
       Dialogue: I was looking around for one of the other volunteers to see if they
-        could give me a ride back to my place tonight
+        could give me a ride back to my place tonight.
       VoiceLine: {fileID: 0}
     Choices:
     - What is your favorite video game

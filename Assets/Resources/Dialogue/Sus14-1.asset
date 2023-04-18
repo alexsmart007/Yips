@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "Oh\u2026hey"
+      Dialogue: "Oh... hey."
       VoiceLine: {fileID: 0}
     Choices:
     - Why did you sign up for the project

@@ -19,8 +19,8 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "After what I\u2019ve gone through\u2026let\u2019s just leave that
-        at no"
+      Dialogue: "After what I've gone through\u2026 let\u2019s just leave that at
+        no."
       VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time

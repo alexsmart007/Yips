@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: That would require me to have one
+      Dialogue: That would require me to have one.
       VoiceLine: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here

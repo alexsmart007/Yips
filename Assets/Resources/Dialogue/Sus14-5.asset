@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "Honestly, I quite enjoy \u2018Sims 4\u2019 at the moment"
+      Dialogue: Honestly, I quite enjoy 'Sims 4' at the moment.
       VoiceLine: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here
