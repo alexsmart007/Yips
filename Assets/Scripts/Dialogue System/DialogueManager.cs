@@ -20,6 +20,7 @@ public class DialogueManager : SingletonMonoBehavior<DialogueManager>
     [SerializeField] float dialogueFastSpeed;
     [SerializeField, ReadOnly] List<SOConversationData> conversationGroup;
     [SerializeField, ReadOnly] List<string> dialogueUnlocks;
+    [SerializeField] AudioSource audioPlayer;
 
     Dictionary<string, DialogueBranchData> choiceToPath = new Dictionary<string, DialogueBranchData>();
 
@@ -152,6 +153,7 @@ public class DialogueManager : SingletonMonoBehavior<DialogueManager>
 
         OnChoiceMenuOpen?.Invoke(choiceToPath.Keys.ToList());
         yield return new WaitUntil(() => choiceSelected != null);
+
         OnChoiceMenuClose?.Invoke();
     }
 
@@ -201,7 +203,13 @@ public class DialogueManager : SingletonMonoBehavior<DialogueManager>
             name = (dialogue.PlayerIsSpeaker ? PLAYER_MARKER : conversant) + ": ";
         }
 
-        if(dialogue.VoiceLine != null) dialogue.VoiceLine.Play();
+        if (dialogue.VoiceLine != null) dialogue.VoiceLine.Play();
+        else if (dialogue.voiceClip != null)
+        {
+            audioPlayer.Stop();
+            audioPlayer.clip = dialogue.voiceClip;
+            audioPlayer.Play();
+        }
 
         yield return TypewriterDialogue(name, dialogue.Dialogue, dialogue.PlayerIsSpeaker);
 

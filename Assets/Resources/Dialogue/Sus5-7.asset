@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "That\u2019s a little personal, don\u2019t you think? I\u2019m not
         really comfortable sharing\u2026 Sorry."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: ff21ed37ded1a5a488afb710df28a947, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

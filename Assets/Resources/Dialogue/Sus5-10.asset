@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "Yeah, I guess I am. I don\u2019t want to die while I\u2019m young.
         There\u2019s so much more to life that I want to experience!"
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: ef7c6926cc831f246a184e0c2d4445ab, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

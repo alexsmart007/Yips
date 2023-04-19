@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "Why? Should I have another job? Between getting through school and
         working here, I feel like I\u2019m doing as much as I can."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: a4acd55ffcef331468fd6bde33aed717, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

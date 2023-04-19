@@ -23,6 +23,7 @@ MonoBehaviour:
         think I really dream of working anywhere. I could enjoy doing almost anything
         as long as I\u2019m learning new things and the people around me are positive."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 0f1a36cc64e822544a0d76189e78446f, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

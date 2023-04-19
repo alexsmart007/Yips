@@ -21,6 +21,8 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: "I don\u2019t really care to be honest. I don\u2019t see why this
         whole AI thing is such a big deal. It\u2019s not hurting anyone, right?"
+      VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: e7e0e58b8a82ecc49b2ca07305621adf, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

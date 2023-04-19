@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: "Hey\u2026 I\u2019m Robin."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: e405c21b170ae154ba560bedcf138e89, type: 3}
     Choices:
     - Why did you sign up for the project
     - What is the last thing you remember before this happened?

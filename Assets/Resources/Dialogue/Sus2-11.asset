@@ -21,10 +21,12 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Can I go now?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 2be913cb22e43764aac7f63544384d20, type: 3}
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
       Dialogue: Are they guilty?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - Seems robotic to me
     - "I think I\u2019m talking to a human"

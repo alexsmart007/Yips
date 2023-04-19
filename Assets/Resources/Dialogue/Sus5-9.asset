@@ -23,6 +23,7 @@ MonoBehaviour:
         job would be to teach just like them. I don\u2019t know. I\u2019ll probably
         have a better idea after I graduate."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: d251a644170e0cd43a047b28ab469e7c, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

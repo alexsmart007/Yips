@@ -23,6 +23,7 @@ MonoBehaviour:
         I feel like we\u2019ve both had a long day and just need to take it easy
         for the rest of the night, so that\u2019s the plan."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 62e48ceefe7624e45933a72a9ed8d522, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

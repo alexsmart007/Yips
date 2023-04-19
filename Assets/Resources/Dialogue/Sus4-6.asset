@@ -23,6 +23,7 @@ MonoBehaviour:
         as soon as I can. I don\u2019t mind the questions, but the situation\u2019s
         making me anxious."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: ba59d238b9e971a46b52d30b17296e51, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

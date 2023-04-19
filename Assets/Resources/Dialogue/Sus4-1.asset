@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: "Hello! I\u2019m Nadine!"
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: bba91d4f0136dfd43aae8b066a010548, type: 3}
     Choices:
     - Why did you sign up for the project
     - What is the last thing you remember before this happened?

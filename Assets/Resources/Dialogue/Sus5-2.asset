@@ -23,6 +23,7 @@ MonoBehaviour:
         degree. One of my professors recommended joining this lab, so\u2026 Here
         I am!"
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: b59a0c4737f55994c9dd7c4b73c2cde3, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

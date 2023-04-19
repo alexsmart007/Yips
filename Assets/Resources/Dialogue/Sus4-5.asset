@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "I don\u2019t usually play video games unless it\u2019s with my partner.
         Although, last week we did play 'Minecraft' together."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: e6434d02926c3234bb82cd5b979b12cf, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

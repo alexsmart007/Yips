@@ -21,10 +21,12 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: It was nice talking to you! Let me know if you have other questions.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 94c068601d773774db7c91d8e4118d21, type: 3}
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
       Dialogue: Are they guilty?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - "That\u2019s an AI"
     - "I think that\u2019s a human"

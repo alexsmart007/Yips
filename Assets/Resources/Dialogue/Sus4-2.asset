@@ -23,6 +23,7 @@ MonoBehaviour:
         cash bonus but the researchers here are very passionate about their work
         and fun to talk to, so that\u2019s a plus."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 5f48467b6900c2249b44ec5fea06bb82, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

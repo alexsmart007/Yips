@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: '''Subway Surfers'' obviously.'
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: cf3ee2a48a972314ea65d4d3ff6b9762, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

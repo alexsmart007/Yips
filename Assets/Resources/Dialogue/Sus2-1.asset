@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: "What is it? Can\u2019t you see I\u2019m busy?"
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: f2d8f9866ae41bb4dad4bb73f3f5c3f8, type: 3}
     Choices:
     - Why did you sign up for the project
     - What is the last thing you remember before this happened?

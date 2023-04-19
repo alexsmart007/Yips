@@ -23,6 +23,7 @@ MonoBehaviour:
         the time as a little kid, but now I barely have time to play anything with
         school."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 368bfe08941bbc640847589d8ee56d5d, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

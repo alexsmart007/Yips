@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "I don\u2019t think about death that often. Life is a journey, so
         I try to be present and worry about today."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: b606135e8bff3ec439eae267ef1449ab, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

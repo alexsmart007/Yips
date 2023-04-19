@@ -20,6 +20,8 @@ MonoBehaviour:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
       Dialogue: "I think death is\u2026 interesting."
+      VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 674f27463f2801f49a4c8c81ff84aeb3, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

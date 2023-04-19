@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "Oh, I don\u2019t know. Go on a murder spree or something? Honestly,
         what do you think I\u2019m gonna do?"
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: e79325286766cc34e9f84412d86dd214, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

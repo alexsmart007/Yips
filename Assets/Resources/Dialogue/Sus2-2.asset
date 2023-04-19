@@ -23,6 +23,7 @@ MonoBehaviour:
         it was better than staying at home with my crazy mom. Honestly, anywhere
         is better than home.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: cf5c9db998280ee43984588d523cb7f6, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

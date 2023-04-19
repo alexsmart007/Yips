@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "I\u2019m not really sure how to feel about it\u2026 I guess I\u2019m
         just trying to stay out of the way and not make things worse."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 262cf90a1df715244bcf9d39d114ed22, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

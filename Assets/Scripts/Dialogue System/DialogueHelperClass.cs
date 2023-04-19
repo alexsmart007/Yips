@@ -20,6 +20,7 @@ public static class DialogueHelperClass
         public bool VoiceSpeaker;
         [SerializeField, TextArea()] public string Dialogue;
         [SerializeField] public AudioSource VoiceLine;
+        [SerializeField] public AudioClip voiceClip;
     }
 
     [System.Serializable]

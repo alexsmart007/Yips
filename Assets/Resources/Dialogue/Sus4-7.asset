@@ -23,6 +23,7 @@ MonoBehaviour:
         and even though they live on the other side of the country, we try to stay
         connected."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 1ce2005ad750f2f429b629aa172686f6, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

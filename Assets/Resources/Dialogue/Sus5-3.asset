@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "I was taking some notes on the samples I\u2019ve been studying lately.
         Nothing too interesting."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: e5b6ab0da1cf0cd4596a7e8bd01a68fe, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

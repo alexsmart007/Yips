@@ -23,6 +23,7 @@ MonoBehaviour:
         the clients I get to work with are polite and friendly, and I really like
         my job most days.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 227f7f755d4e747478c77acef51a78b5, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

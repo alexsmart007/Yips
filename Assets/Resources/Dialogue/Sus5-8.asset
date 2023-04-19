@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "I have to head back to my apartment and feed my pets. I love those
         little guys so much. I can\u2019t wait to see them!"
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 6e6ce5bf2c831d048935c9e61a35423b, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

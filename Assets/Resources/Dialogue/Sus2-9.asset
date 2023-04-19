@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "Dream job? No one\u2019s really asked me before. Well, I\u2019d
         really like to set up a paint shop in France."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 9293428f22ce82645b6f47389701fb5e, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:
