@@ -20,7 +20,7 @@ MonoBehaviour:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
       Dialogue: Well, I actually love fishing, so my dream job would be to become
-        a professional fisherman. There's something about being out on the water
+        a professional fisherman. There's something about being out on the open water
         and catching your own dinner that's really appealing to me.
       VoiceLine: {fileID: 0}
     Choices:
