@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conversationData:
     ID: Sus13-12
-    Conversant: Taylor Harper
+    Conversant: Lawrence Knolls
     Unlocks: N/A
     Dialogues:
     - PlayerIsSpeaker: 1
@@ -22,14 +22,14 @@ MonoBehaviour:
       Dialogue: They are AI but what about them is AI?
       VoiceLine: {fileID: 0}
     Choices:
-    - They look off
-    - They talk funny
-    - They sound weird
+    - Their appearance is uncanny.
+    - The words they're saying are unnatural.
+    - The sound of their voice is strange.
     LeadsTo:
     - BranchText: Sus13-Fail
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus13-Success
+    - BranchText: Sus13-Fail
       isPuzzle: 0
       Requirements: []
     - BranchText: Sus13-Fail

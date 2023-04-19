@@ -20,7 +20,7 @@ MonoBehaviour:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
       Dialogue: I promised Mrs. Baker that I would help her daughter, Claurise, study
-        mathematics tonight
+        mathematics tonight.
       VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time

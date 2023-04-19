@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
-      Dialogue: Already talked to this one, need to find a new person
+      Dialogue: Already been here, I need to find a new person
       VoiceLine: {fileID: 0}
     Choices: []
     LeadsTo:

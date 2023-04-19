@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conversationData:
     ID: Sus13-Success
-    Conversant: Taylor Harper
+    Conversant: Lawrence Knolls
     Unlocks: Sus13_Success
     Dialogues:
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
-      Dialogue: Finished with that one, time to continue
+      Dialogue: Done here, I got to move on
       VoiceLine: {fileID: 0}
     Choices: []
     LeadsTo:

@@ -19,8 +19,9 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: I most desire to become head engineer of my own team of scientists
-        studying how to use AI to create AI
+      Dialogue: I most desire to become the head engineer of my own team of scientists
+        studying how to use AI to create AI.
+      VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time
     LeadsTo:

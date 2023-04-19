@@ -19,8 +19,8 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I help Luna a lot with her schoolwork and I\u2019m studying to be
-        a nurse, but I\u2019m also a fantastic singer! I hope to make it big someday!"
+      Dialogue: "I help Luna a lot with her schoolwork, and I\u2019m studying to
+        be a nurse, but I\u2019m also a fantastic singer! I hope to make it big someday!"
       VoiceLine: {fileID: 0}
     Choices:
     - What is your favorite video game

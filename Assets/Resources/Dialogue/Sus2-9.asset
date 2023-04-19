@@ -19,8 +19,9 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "Dream job? No one\u2019s really asked me before. Well\u2026 I\u2019d
+      Dialogue: "Dream job? No one\u2019s really asked me before. Well, I\u2019d
         really like to set up a paint shop in France."
+      VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time
     LeadsTo:

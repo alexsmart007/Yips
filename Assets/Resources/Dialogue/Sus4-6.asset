@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I feel a little tense and I think I\u2019d like to get out of here
+      Dialogue: "I feel a little tense, and I think I\u2019d like to get out of here
         as soon as I can. I don\u2019t mind the questions, but the situation\u2019s
         making me anxious."
       VoiceLine: {fileID: 0}

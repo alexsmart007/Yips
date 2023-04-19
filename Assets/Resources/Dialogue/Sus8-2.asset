@@ -20,7 +20,7 @@ MonoBehaviour:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
       Dialogue: "I love doing research! All the people here are so nice! I don\u2019t
-        really know what AI is but it sure must be important!"
+        really know what AI is, but it sure must be important!"
       VoiceLine: {fileID: 0}
     Choices:
     - What is your favorite video game

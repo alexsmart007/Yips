@@ -14,13 +14,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conversationData:
     ID: Sus13-2
-    Conversant: Taylor Harper
+    Conversant: Lawrence Knolls
     Unlocks: N/A
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: Well, I was like, super into coding and AI stuff, ya know? So when
-        they needed volunteers, I was like, why not? Could be interesting.
+      Dialogue: "I don\u2019t have much money as it is, I figured it\u2019s better
+        than sleeping on the streets. I get food, bedding, and clothing, so I said
+        \u2018Why the hell not?\u2019"
       VoiceLine: {fileID: 0}
     Choices:
     - What is your favorite video game

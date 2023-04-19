@@ -14,14 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conversationData:
     ID: Sus13-10
-    Conversant: Taylor Harper
+    Conversant: Lawrence Knolls
     Unlocks: N/A
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: I mean, yeah, I guess. Like, who wouldn't be, right? But I'm not
-        planning on kicking the bucket anytime soon, dude. Got too many tech dreams
-        to chase.
+      Dialogue: "I couldn\u2019t be any worse than what I\u2019ve been through. I
+        couldn\u2019t care less about death."
       VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time

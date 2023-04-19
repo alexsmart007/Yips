@@ -20,7 +20,8 @@ MonoBehaviour:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
       Dialogue: I am slightly confused as to why you decided to gather all of us
-        here together
+        here together.
+      VoiceLine: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

@@ -14,13 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   conversationData:
     ID: Sus13-7
-    Conversant: Taylor Harper
+    Conversant: Lawrence Knolls
     Unlocks: N/A
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: They're cool, I guess. They don't always get my tech obsession, but
-        they support me. I'm lucky to have 'em.
+      Dialogue: "I don\u2019t have much family now. They were nice while they were
+        around, I guess. We never had a lot growing up, though."
       VoiceLine: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here

@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: Dude, I can't get enough of 'CyberRush'. It's this sick multiplayer
+      Dialogue: Dude, I can't get enough of 'CyberRush.' It's this sick multiplayer
         game with futuristic vibes and wicked cool graphics. Totally addicted to
         it, man.
       VoiceLine: {fileID: 0}

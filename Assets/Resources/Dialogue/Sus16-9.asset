@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff4c86d78dfd55d47a03b069c598849c, type: 3}
+  m_Name: Sus16-9
+  m_EditorClassIdentifier: 
+  conversationData:
+    ID: Sus16-9
+    Conversant: Marshal Rex
+    Unlocks: N/A
+    Dialogues:
+    - PlayerIsSpeaker: 0
+      VoiceSpeaker: 0
+      Dialogue: "I already got it, I\u2019m gonna be working at Las Cruces in Nevada.
+        I don\u2019t know what project they\u2019ll put me on yet but whatever it
+        is it\u2019ll be fun!"
+      VoiceLine: {fileID: 0}
+    Choices:
+    - Thank you for your time
+    LeadsTo:
+    - BranchText: Sus16-11
+      isPuzzle: 0
+      Requirements: []
