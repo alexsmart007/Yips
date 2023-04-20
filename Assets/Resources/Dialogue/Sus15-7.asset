@@ -19,8 +19,8 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I don\u2019t see them often. My mom\u2019s gone and my dad\u2019s
-        usually out on business."
+      Dialogue: I don't see them often. My mom's gone and my dad's usually out on
+        business.
       VoiceLine: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here

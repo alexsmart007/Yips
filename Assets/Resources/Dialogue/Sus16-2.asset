@@ -19,8 +19,8 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I\u2019m Oliver\u2019s friend, so I signed up to make sure he\u2019s
-        not being taken advantage of. He can be a little too nice sometimes."
+      Dialogue: I'm Oliver's friend, so I signed up to make sure he's not being taken
+        advantage of. He can be a little too nice sometimes.
       VoiceLine: {fileID: 0}
     Choices:
     - What is your favorite video game

@@ -19,9 +19,9 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I already got it, I\u2019m gonna be working at Las Cruces in Nevada.
-        I don\u2019t know what project they\u2019ll put me on yet but whatever it
-        is it\u2019ll be fun!"
+      Dialogue: I already got it. I'm gonna be working at Las Cruces in Nevada. I
+        don't know what project they'll put me on yet, but whatever it is, it'll
+        be fun!
       VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time

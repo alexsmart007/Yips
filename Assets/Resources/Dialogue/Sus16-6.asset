@@ -19,8 +19,8 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I thought something bad might happen, that\u2019s why I\u2019m here.
-        I just hope Oliver is okay."
+      Dialogue: I thought something bad might happen. That's why I'm here. I just
+        hope Oliver is okay.
       VoiceLine: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here
