@@ -19,8 +19,8 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I\u2019m a materials scientist, so I guess I\u2019m a little out
-        of my element, but I\u2019m not afraid to try new things."
+      Dialogue: I'm a materials scientist, so I guess I'm a little out of my element,
+        but I'm not afraid to try new things.
       VoiceLine: {fileID: 0}
     Choices:
     - What is your favorite video game

@@ -19,8 +19,8 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "Hiya, what\u2019s your name? I\u2019m Mashal, but everyone calls
-        me Marshy."
+      Dialogue: "Hiya, what's your name? I\u2019m Marshal, but everyone calls me
+        Marshy."
       VoiceLine: {fileID: 0}
     Choices:
     - Why did you sign up for the project

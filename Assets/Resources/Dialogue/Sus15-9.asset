@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "Oliver\u2026 I mean, uhh musician."
+      Dialogue: Probably being a famous musician, or something. I don't really know.
       VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time

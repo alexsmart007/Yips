@@ -19,9 +19,9 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "They\u2019re nice. It\u2019s just my mom and I but we\u2019re always
-        there for each other. Oliver is like a brother to me though, I stick my neck
-        out for him all the time."
+      Dialogue: They're nice. It's just my mom and I, but we're always there for
+        each other. Oliver is like a brother to me though, I stick my neck out for
+        him all the time.
       VoiceLine: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here

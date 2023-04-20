@@ -19,8 +19,8 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I got a job recently at a lab in Nevada, but that won\u2019t be
-        until the summer."
+      Dialogue: I got a job recently at a lab in Nevada, but that won't be until
+        the summer.
       VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time

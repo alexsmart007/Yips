@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "Probably come back tomorrow. Not because I want to or anything\u2026"
+      Dialogue: Probably come back tomorrow. Not because I want to or anything...
       VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time

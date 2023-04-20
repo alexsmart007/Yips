@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "Me? No, if I die then there\u2019s nothing I can do, ya know?"
+      Dialogue: Me? No, if I die then there's nothing I can do, ya know?
       VoiceLine: {fileID: 0}
     Choices:
     - Thank you for your time

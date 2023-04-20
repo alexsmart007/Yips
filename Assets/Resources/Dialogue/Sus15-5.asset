@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I don\u2019t play games. I do play a little guitar though, and sing."
+      Dialogue: I don't play games. I do play a little guitar though, and sing.
       VoiceLine: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here

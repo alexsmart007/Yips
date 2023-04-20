@@ -19,7 +19,7 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "If it means I get to see Oliver a little longer I don\u2019t mind."
+      Dialogue: I don't really mind. I didn't have much going on, anyways.
       VoiceLine: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here
