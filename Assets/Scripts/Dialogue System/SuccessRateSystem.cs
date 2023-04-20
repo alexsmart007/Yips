@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Diagnostics;
 using UnityEngine;
+using UnityEngine.UIElements;
 
 public class SuccessRateSystem : MonoBehaviour
 {
@@ -17,6 +18,16 @@ public class SuccessRateSystem : MonoBehaviour
     [SerializeField] private float timeBeforeQuit;
 
     private List<string> unlocks;
+
+    private void OnEnable()
+    {
+        Controller.OnQuit += NextScene;
+    }
+
+    private void OnDisable()
+    {
+        Controller.OnQuit -= NextScene;
+    }
 
 
     public float CalculateSuccessRate()
@@ -47,6 +58,7 @@ public class SuccessRateSystem : MonoBehaviour
 
     public void NextScene()
     {
+        CalculateSuccessRate();
         StartCoroutine(SceneTools.TransitionToScene(SceneTools.NextSceneIndex));
     }
 
@@ -54,12 +66,13 @@ public class SuccessRateSystem : MonoBehaviour
     void Update()
     {
         CalculateSuccessRate();
+        data.successes = success;
+        data.fails = fail;
         if (success + fail >= totalNumberOfSuspects)
         {
             //StartCoroutine(FadeToBlackSystem.TryCueFadeInToBlack(timeToFade));
             NextScene();
-            data.successes = success;
-            data.fails = fail;
+
         }
 
     }

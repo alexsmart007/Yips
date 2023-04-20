@@ -9,6 +9,7 @@ public class Controller : SingletonMonoBehavior<Controller>
     public static Action<Vector2> OnMove;
     public static Action<Vector2> OnPosition;
     public static Action OnClick;
+    public static Action OnQuit;
     public static Action OnInteract;
     public static Action OnPause;
 
@@ -64,6 +65,14 @@ public class Controller : SingletonMonoBehavior<Controller>
         if (context.started)
         {
             OnClick?.Invoke();
+        }
+    }
+
+    public void Quit(InputAction.CallbackContext context)
+    {
+        if (context.started)
+        {
+            OnQuit?.Invoke();
         }
     }
 
