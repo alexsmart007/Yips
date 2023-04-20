@@ -19,9 +19,10 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I\u2019ve bounced around between odd jobs here and there, but I
-        hadn\u2019t found anything for a while until I found Sigma Labs."
+      Dialogue: I've bounced around between odd jobs here and there, but I hadn't
+        found anything for a while until I found Sigma Labs.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

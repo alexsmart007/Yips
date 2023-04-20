@@ -19,9 +19,10 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "As long as I get paid and am able to get the hell out of here, I
-        don\u2019t care."
+      Dialogue: As long as I get paid and am able to get the hell out of here, I
+        don't care.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job
