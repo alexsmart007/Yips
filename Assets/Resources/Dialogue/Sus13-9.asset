@@ -22,7 +22,7 @@ MonoBehaviour:
       Dialogue: Any job will do, anything to get me a little money. Why do you think
         I'm here?
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 40783dfd9b27abb43b5bda316e7d1c29, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

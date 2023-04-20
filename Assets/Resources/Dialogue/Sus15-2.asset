@@ -21,7 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: 'I''ll give it to you straight: money.'
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 9d23c41586723b44d897ebe9ab655cbd, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

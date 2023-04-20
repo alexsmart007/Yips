@@ -22,7 +22,7 @@ MonoBehaviour:
       Dialogue: I don't have much family now. They were nice while they were around,
         I guess. We never had a lot growing up, though.
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 2809d40c2fce04447b9ae38d3730581d, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

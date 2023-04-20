@@ -21,7 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: I don't really mind. I didn't have much going on, anyways.
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: afda6fa0be03a2343ab485aae95e05db, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

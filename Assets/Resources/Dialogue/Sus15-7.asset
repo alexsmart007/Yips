@@ -22,7 +22,7 @@ MonoBehaviour:
       Dialogue: I don't see them often. My mom's gone and my dad's usually out on
         business.
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: d906dacbc9b52724a8d0039281fd88bc, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

@@ -22,7 +22,7 @@ MonoBehaviour:
       Dialogue: It couldn't be any worse than what I've been through. I couldn't
         care less about death.
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 315a7bbaf10a8024b95a81f486ee3fa0, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

@@ -21,7 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: "I've been asleep for a few hours so I couldn\u2019t tell you."
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: d20e57c22049a404c9a12302796710f8, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

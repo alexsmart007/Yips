@@ -22,7 +22,7 @@ MonoBehaviour:
       Dialogue: "Hmph\u2026 haven't played a game in decades. I'm more of a poker
         kind of guy, but I suppose I used to really like 'Asteroids.'"
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 03adfaa168499124390c3b87ffe5101e, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

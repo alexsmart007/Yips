@@ -22,7 +22,7 @@ MonoBehaviour:
       Dialogue: I was waiting for Harry to come back. I think he was getting coffee
         or something. We were going to run some tests.
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: df5854544e569244d95db531540a4c24, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

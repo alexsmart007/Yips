@@ -21,7 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Yeah, yeah...
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 85d0a65102023ab47b6bf3580cc27a86, type: 3}
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
       Dialogue: Are they guilty?

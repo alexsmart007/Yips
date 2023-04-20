@@ -22,7 +22,7 @@ MonoBehaviour:
       Dialogue: I've bounced around between odd jobs here and there, but I hadn't
         found anything for a while until I found Sigma Labs.
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: e65e854b83e366d4e8d49dac28e3725a, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

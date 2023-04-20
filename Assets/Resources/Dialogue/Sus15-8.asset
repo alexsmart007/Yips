@@ -21,7 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Probably come back tomorrow. Not because I want to or anything...
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 62bf2c87c68f8884c89ac8fbdb6911c6, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

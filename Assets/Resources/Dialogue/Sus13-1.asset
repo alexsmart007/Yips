@@ -21,7 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: What's it to you?
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 88359e8f924a2da4cb88425bd7771171, type: 3}
     Choices:
     - Why did you sign up for the project
     - What is the last thing you remember before this happened?

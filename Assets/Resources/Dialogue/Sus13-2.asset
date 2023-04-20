@@ -23,7 +23,7 @@ MonoBehaviour:
         on the streets. I get food, bedding, and clothing, so I said 'Why the hell
         not?'
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 391ff1172db34244cb15034e1987004c, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

@@ -21,7 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Hey, before you leave, you got a light?
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 710af79077aaf7f4386f8830ea6afac0, type: 3}
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
       Dialogue: Are they guilty?

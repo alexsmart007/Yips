@@ -21,7 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Cashier at McDonald's.
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 9e00af158beabce428fcdbc43060253c, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation
