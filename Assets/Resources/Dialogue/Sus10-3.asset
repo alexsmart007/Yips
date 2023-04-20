@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: Last thing I remember is feeling kinda woozy after the experiment,
         then bam, woke up in the lab, dude!
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: fe2321514f7a9fa43ab639660a491070, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

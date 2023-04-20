@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: My dream job? Gotta be a famous AI hacker, exposing vulnerabilities
         and taking down corrupt systems, man!
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 2f35280968bff7f4db93b2706b7f0c44, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

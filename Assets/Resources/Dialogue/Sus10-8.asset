@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: Once I'm outta here, I'll keep studying, jamming with the band, and
         maybe even plan a gig to spread some punk rock vibes, bro.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 7fae98a452e5359428369ef0c489a6cb, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

@@ -23,6 +23,7 @@ MonoBehaviour:
         a virus thing going on. It's news to me. I'm just here for the coding and
         tech stuff.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 9bceb381dfc46d2409d8ab1676fa2713, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

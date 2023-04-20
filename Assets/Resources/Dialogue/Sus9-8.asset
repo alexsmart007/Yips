@@ -23,6 +23,7 @@ MonoBehaviour:
         catch up on some reading or play some video games. But I'll definitely be
         keeping an eye on the situation and doing everything I can to help out.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: d64d22b614340544ba092f21cec33b50, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

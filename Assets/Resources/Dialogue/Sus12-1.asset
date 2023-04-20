@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Hey, busy with coding, no biggie.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: dea09791fac556d4ea4ef23fe41a399b, type: 3}
     Choices:
     - Why did you sign up for the project
     - What is the last thing you remember before this happened?

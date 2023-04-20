@@ -22,10 +22,12 @@ MonoBehaviour:
       Dialogue: You're welcome. Let me know if there's anything else I can do to
         assist with the investigation.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 63488e46174271848a627be731161676, type: 3}
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
       Dialogue: Are they guilty?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - "That\u2019s definitely a robot"
     - "That\u2019s a human"

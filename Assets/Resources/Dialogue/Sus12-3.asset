@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: Hmm, last thing I remember is just working on my coding projects
         for the project, nothing seemed off, ya know? Everything was normal, I think.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 045ec3c3a2cc0e64b8db1f4042a42d1f, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

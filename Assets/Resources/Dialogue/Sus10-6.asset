@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: This situation is whack, but I'm up for the challenge of finding
         out who's infected with this AI virus, yo.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 5ea8926a6a2dbfb468196f4f446b8e38, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

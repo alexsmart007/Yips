@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: My favorite video game is probably 'Portal.'
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 22ef67b42c8c2394d92c7fe644c23445, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

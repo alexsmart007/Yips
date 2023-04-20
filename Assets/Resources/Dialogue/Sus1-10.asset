@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: No.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: f79718818ad88fb4bbefda42b8894a86, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

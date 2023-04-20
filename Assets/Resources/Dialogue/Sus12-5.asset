@@ -23,6 +23,7 @@ MonoBehaviour:
         game with futuristic vibes and wicked cool graphics. Totally addicted to
         it, man.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 7ad5bb53ddc54a341805c9a0f51cbef1, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

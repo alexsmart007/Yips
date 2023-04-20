@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: I signed up for this project 'cause I'm all about seeing what crazy
         stuff AI can do, you know?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 472c0cad01a76164c8217a5a8a10773a, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

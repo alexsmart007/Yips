@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: They're cool, I guess. They don't always get my tech obsession, but
         they support me. I'm lucky to have 'em.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 9715ea0232fc6ac4d9eace2c50905075, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

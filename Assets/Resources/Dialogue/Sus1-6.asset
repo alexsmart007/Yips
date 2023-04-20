@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: I am slightly confused as to why you decided to gather all of us
         here together.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: b2e2231119b2e4f4fb5d47ccc0a0303a, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

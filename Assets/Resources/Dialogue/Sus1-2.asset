@@ -23,6 +23,7 @@ MonoBehaviour:
         matter that we should all be looking into more. I figured that through working
         here, I would be able to boost my own skills.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: cc3b9118eddf8cf438ee159094554df0, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

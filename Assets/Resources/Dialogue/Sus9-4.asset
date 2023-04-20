@@ -24,6 +24,7 @@ MonoBehaviour:
         I thought it would be a great fit for me to use my skills to contribute to
         the field.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 4d7a4263185316141ac179f86f89f872, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

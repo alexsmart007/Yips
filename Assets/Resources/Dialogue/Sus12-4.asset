@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: Oh, I'm just a student, dude. Coding and gaming are my passions,
         and I'm all about pursuing my tech dreams.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: f37ebdab0cf3e7d45b266abb17de29da, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

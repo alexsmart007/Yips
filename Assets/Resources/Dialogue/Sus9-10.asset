@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: To be honest, the idea of death scares me a lot, especially now that
         this virus has turned people into AI. It's all very strange and unsettling.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 963355eb3a6ffba4096c2bb34cddbb12, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

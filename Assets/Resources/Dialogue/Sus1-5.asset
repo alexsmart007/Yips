@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: I quite like playing 'Persona 5' in my free time.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 6c31be369272d2a48bd21fe4cb3fed6a, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

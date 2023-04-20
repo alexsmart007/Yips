@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: I most desire to become the head engineer of my own team of scientists
         studying how to use AI to create AI.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 418fee2dc376ffb4eab3506e74543571, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

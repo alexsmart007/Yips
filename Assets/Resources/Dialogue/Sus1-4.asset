@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: I am currently studying computer science at Carnegie Mellon University.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 59c631f0a69ef2044bab7792741e35e6, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

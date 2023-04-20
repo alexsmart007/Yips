@@ -23,6 +23,7 @@ MonoBehaviour:
         the lead researchers here at the lab. We were discussing my role as a volunteer
         and how I could best contribute to the ongoing AI research.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: d281673bc64246c4fb852228b26b63bc, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

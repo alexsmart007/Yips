@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: I'm just a part-time barista at this coffee joint, but I'm all about
         gaming and jamming with my punk band, man.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 35da4efa085547e42b9e7ffe2e6536df, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

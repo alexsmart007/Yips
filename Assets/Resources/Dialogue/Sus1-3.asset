@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: I was in the lab testing Valorie by showing some slides and having
         her determine which were AI and which were real.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 02e1ded59c14f4c43bd3679dbb0785e9, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

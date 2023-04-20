@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: I wanna be a game developer, man. Creating my own games and pushing
         the boundaries of tech is the ultimate goal. Gonna make it happen, no doubt.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: ce73a668ab866a44888d66251b06798a, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

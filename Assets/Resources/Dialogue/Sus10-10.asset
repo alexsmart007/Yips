@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: Nah, ain't scared of death, bro. I'm all about standing up for my
         beliefs and taking risks to make a difference, ya feel me?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: ea83a91d25eaa604186ca4906719039d, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

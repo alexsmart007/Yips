@@ -23,6 +23,7 @@ MonoBehaviour:
         planning on kicking the bucket anytime soon, dude. Got too many tech dreams
         to chase.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 49bc955304cae6c4dab47a86b193ad3d, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

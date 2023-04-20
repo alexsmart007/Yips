@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: Honestly, they are quite annoying. They are truly some of the most
         incompetent people I know.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 5d428ceb9fc1c8045b3e21ab0252e278, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

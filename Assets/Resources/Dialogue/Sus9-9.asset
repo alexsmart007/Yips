@@ -23,6 +23,7 @@ MonoBehaviour:
         a professional fisherman. There's something about being out on the open water
         and catching your own dinner that's really appealing to me.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: b451db591377fac44812e1e1871e6caa, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

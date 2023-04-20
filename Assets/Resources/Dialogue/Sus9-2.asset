@@ -24,6 +24,7 @@ MonoBehaviour:
         that AI has the potential to change the world for the better, and I'm thrilled
         to be a part of it all.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 79f0b42c68a198d4fa9792000d60c8af, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: Well, I was like, super into coding and AI stuff, ya know? So when
         they needed volunteers, I was like, why not? Could be interesting.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 3e0d4bba80d224249acc21c44233034c, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

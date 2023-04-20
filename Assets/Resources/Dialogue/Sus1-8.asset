@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: Tonight I have a few more programming assignments to work through,
         and then I will most likely work on analyzing last week's data.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 0ec6abb2b454fbd448ac72b0abc50b33, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

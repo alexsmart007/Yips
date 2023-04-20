@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: I'm really concerned about the situation, but I'm doing everything
         I can to help contain the virus and assist with the investigation.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 163bd7a61c91c534fa91daf4778fd26d, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

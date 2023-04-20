@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Oh, um, hey there. What can I help you with?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: d360fbe7df4586d4494fa2445111fc26, type: 3}
     Choices:
     - Why did you sign up for the project
     - What is the last thing you remember before this happened?
