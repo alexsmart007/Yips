@@ -11,6 +11,7 @@ public class DialogueUIController : SerializedMonoBehaviour
     [SerializeField] TextBoxDisplay textBoxDisplay;
     [SerializeField] ChoicesDisplay choicesDisplay;
     [SerializeField] Image background;
+    [SerializeField] new UIAudio audio;
 
     List<string> choices = new List<string>();
     int currentChoice;
@@ -46,6 +47,8 @@ public class DialogueUIController : SerializedMonoBehaviour
 
     private void UpdateChoiceSelection(Vector2 navigation)
     {
+        if (audio != null) audio.PlaySwap();
+
         currentChoice += Mathf.RoundToInt(navigation.normalized.x);
         currentChoice = Mathf.Clamp(currentChoice, 0, totalChoices - 1);
         choicesDisplay.SelectChoice(currentChoice);
@@ -55,10 +58,12 @@ public class DialogueUIController : SerializedMonoBehaviour
     {
         if (index == currentChoice)
         {
+
             SelectChoice();
         }
         else
         {
+            if (audio != null) audio.PlaySwap();
             currentChoice = index;
             choicesDisplay.SelectChoice(index);
         }
@@ -66,6 +71,7 @@ public class DialogueUIController : SerializedMonoBehaviour
 
     private void SelectChoice()
     {
+        if (audio != null) audio.PlayClick();
         Debug.Log("Selecting: " + choices[currentChoice]);
         DialogueManager.Instance.SelectChoice(choices[currentChoice]);
     }

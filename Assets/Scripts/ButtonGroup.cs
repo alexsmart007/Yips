@@ -9,6 +9,7 @@ public class ButtonGroup : MonoBehaviour
 {
     [SerializeField] bool gridMode;
     [SerializeField, ShowIf("gridMode", true)] int columns;
+    [SerializeField] UIAudio uiAudio;
 
     List<IButton> buttons;
     int currentButtonIndex = -1;
@@ -43,6 +44,7 @@ public class ButtonGroup : MonoBehaviour
         if (currentButtonIndex == index) return;
         if(currentButtonIndex != -1)
         {
+            if (uiAudio != null) uiAudio.PlaySwap();
             buttons[currentButtonIndex].ToggleSelected(false);
         }
         currentButtonIndex = index;
@@ -52,7 +54,8 @@ public class ButtonGroup : MonoBehaviour
     private void ActivateButton()
     {
         if (!FadeToBlackSystem.FadeOutComplete) return;
-        
+
+        if (uiAudio != null) uiAudio.PlayClick();
         buttons[currentButtonIndex].Use();
     }
 
