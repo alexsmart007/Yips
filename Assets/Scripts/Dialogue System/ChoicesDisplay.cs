@@ -10,6 +10,8 @@ public class ChoicesDisplay : MonoBehaviour
 {
     [SerializeField] GameObject choiceTemplate;
     [SerializeField] float scaleFactor;
+    [SerializeField] Color selected;
+    [SerializeField] Color notSelected;
 
     List<TextMeshProUGUI> choicesText = new List<TextMeshProUGUI>();
     List<RectTransform> choices = new List<RectTransform>();
@@ -23,7 +25,7 @@ public class ChoicesDisplay : MonoBehaviour
             GameObject instance = Instantiate(choiceTemplate, transform);
             var textBox = instance.transform.GetComponentInChildren<TextMeshProUGUI>();
             textBox.text = choiceOption;
-            textBox.color = Color.gray;
+            textBox.color = notSelected;
             var uiButton = instance.transform.GetComponent<SimpleButton>();
             uiButton.OnClick += UiButton_OnClick;
             choicesText.Add(textBox);
@@ -41,8 +43,8 @@ public class ChoicesDisplay : MonoBehaviour
 
     public void SelectChoice(int index)
     {
-        choicesText.ForEach(choice => choice.color = Color.gray);
-        choicesText[index].color = Color.black;
+        choicesText.ForEach(choice => choice.color = notSelected);
+        choicesText[index].color = selected;
         if (choices.Count > 0)
         {
             choices.ForEach(x => x.localScale = Vector3.one);

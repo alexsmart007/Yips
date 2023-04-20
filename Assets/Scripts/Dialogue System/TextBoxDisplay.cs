@@ -5,22 +5,24 @@ using UnityEngine.UI;
 public class TextBoxDisplay : MonoBehaviour
 {
     [SerializeField] TextMeshProUGUI dialogueTextField;
-    [SerializeField] Image textBoxImage;
-    [SerializeField] Image voiceTextBoxImage;
+    [SerializeField] Image conversantPortrait;
+    [SerializeField] Image wickPortrait;
+    [SerializeField] Color nonSpeakerTint;
 
-    public void Display() => ToggleChildrenDisplay(true);
+    public void Display() 
+    {
+        conversantPortrait.transform.localScale = Vector3.one * 1f;
+        wickPortrait.transform.localScale = Vector3.one * .9f;
+        ToggleChildrenDisplay(true);
+    }
 
     public void UpdateDialogueText(string text, bool wickIsSpeaking)
     {
-        dialogueTextField.text = text;
-
-        if (textBoxImage != null)
-        {
-            textBoxImage.rectTransform.rotation = new Quaternion() { y = wickIsSpeaking ? 180 : 0 };
-            voiceTextBoxImage.enabled = !text.Contains(":");
-            textBoxImage.enabled = !voiceTextBoxImage.enabled;
-        }
-        
+        dialogueTextField.text = text;   
+        conversantPortrait.transform.localScale = Vector3.one * (wickIsSpeaking ? .9f : 1f);
+        conversantPortrait.color = wickIsSpeaking ? nonSpeakerTint : Color.white;
+        wickPortrait.transform.localScale = Vector3.one * (wickIsSpeaking ? 1f : .9f);
+        wickPortrait.color = wickIsSpeaking ? Color.white : nonSpeakerTint;
     }
 
     public void Hide() => ToggleChildrenDisplay(false);

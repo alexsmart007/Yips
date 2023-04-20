@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using static DialogueHelperClass;
 
 public class DialogueUIController : SerializedMonoBehaviour
@@ -9,6 +10,7 @@ public class DialogueUIController : SerializedMonoBehaviour
     [SerializeField] PortraitDisplay leftPortrait, rightPortrait;
     [SerializeField] TextBoxDisplay textBoxDisplay;
     [SerializeField] ChoicesDisplay choicesDisplay;
+    [SerializeField] Image background;
 
     List<string> choices = new List<string>();
     int currentChoice;
@@ -25,6 +27,7 @@ public class DialogueUIController : SerializedMonoBehaviour
 
     private void HideUI()
     {
+        background.gameObject.SetActive(false);
         leftPortrait.Hide();
         rightPortrait.Hide();
         textBoxDisplay.Hide();
@@ -34,6 +37,7 @@ public class DialogueUIController : SerializedMonoBehaviour
 
     private void DisplayUI(ConversationData conversation)
     {
+        background.gameObject.SetActive(true);
         leftPortrait.Display(conversation.Conversant);
         rightPortrait.Display("detective birch");
         textBoxDisplay.Display();
