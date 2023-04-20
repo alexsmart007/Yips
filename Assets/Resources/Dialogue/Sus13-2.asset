@@ -19,10 +19,11 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I don\u2019t have much money as it is, I figured it\u2019s better
-        than sleeping on the streets. I get food, bedding, and clothing, so I said
-        \u2018Why the hell not?\u2019"
+      Dialogue: I don't have much money as it is, I figured it's better than sleeping
+        on the streets. I get food, bedding, and clothing, so I said 'Why the hell
+        not?'
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

@@ -19,9 +19,10 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "Any job will do, anything to get me a little money. Why do you think
-        I\u2019m here?"
+      Dialogue: Any job will do, anything to get me a little money. Why do you think
+        I'm here?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - Thank you for your time
     LeadsTo:

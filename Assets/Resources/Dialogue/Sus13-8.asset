@@ -19,9 +19,10 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I wish I could tell you. Get as far away from here as possible,
-        that\u2019s the only thing I know."
+      Dialogue: I wish I could tell you. Get as far away from here as possible, that's
+        the only thing I know.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - Thank you for your time
     LeadsTo:

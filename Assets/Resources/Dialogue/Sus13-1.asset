@@ -19,8 +19,9 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "What\u2019s it to you?"
+      Dialogue: What's it to you?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - Why did you sign up for the project
     - What is the last thing you remember before this happened?

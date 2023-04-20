@@ -19,9 +19,10 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I couldn\u2019t be any worse than what I\u2019ve been through. I
-        couldn\u2019t care less about death."
+      Dialogue: It couldn't be any worse than what I've been through. I couldn't
+        care less about death.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - Thank you for your time
     LeadsTo:
