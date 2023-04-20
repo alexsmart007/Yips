@@ -23,6 +23,7 @@ MonoBehaviour:
         game where you get to build and customize your own island paradise, hang
         out with cute animal friends, and collect all kinds of fun items!'
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: f736d3098bb3ad54fbcdc9aae26c16ad, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

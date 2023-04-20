@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: I will go to nursing school, or, maybe, I will travel the world and
         become a famous pop star!
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 79adcd4f17415c845bb5cf23567f650a, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

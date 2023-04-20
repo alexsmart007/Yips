@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: I was helping collect some supplies for Haven!
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 32df2aa025b8f294ca6463f3ca7b35da, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

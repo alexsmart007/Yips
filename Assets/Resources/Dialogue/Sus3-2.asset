@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: AI is the largest frontier of the technological world. I want to
         be here to meet its first settlers.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: c8a25d04912a8c24ab19856de8d44517, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

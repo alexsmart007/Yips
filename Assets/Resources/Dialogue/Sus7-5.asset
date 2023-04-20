@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: I gotta say, I think it might actually be 'Sword Art Online.'
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 5621b8fdfcbbea8459d0860208e1edec, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

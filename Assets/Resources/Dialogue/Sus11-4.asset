@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: I'm currently studying biology and dreaming of a future where I can
         use my knowledge to change the world for the better!
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: be5dc01179df5e442997f9937eaedb34, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

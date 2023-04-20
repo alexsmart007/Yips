@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: To help further scientific research and save the world - how cool
         is that?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 3c1ef496fc4056346923f71ca4ade170, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

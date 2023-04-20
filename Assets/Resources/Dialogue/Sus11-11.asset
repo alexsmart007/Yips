@@ -21,10 +21,12 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: You're welcome! It was great chatting with you.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 61a6a50458d5d2a419d3db068595b93f, type: 3}
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
       Dialogue: Are they guilty?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - "That\u2019s definitely a robot"
     - "That\u2019s a human"

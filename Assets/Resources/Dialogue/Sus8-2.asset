@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "I love doing research! All the people here are so nice! I don\u2019t
         really know what AI is, but it sure must be important!"
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 03190ef616972e54db6b52de1fe5a5a1, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

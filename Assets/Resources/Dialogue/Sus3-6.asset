@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "I\u2019m really not surprised. The implications of AI have always
         been massive, so something like this was inevitable."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 2dbe8345b4f111a43abf3749ce642d55, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

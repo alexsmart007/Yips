@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: My family is so awesome! My sister and I may have grown up in a tough
         place, but we always help each other, and our parents have always been supportive!
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 5c33abb5e1ce2c94db9da1bd151fa0b2, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

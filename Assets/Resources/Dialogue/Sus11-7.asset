@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: Oh my gosh, I adore my family! They're the best support system anyone
         could ask for, and I'm so grateful to have them in my life.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 1d2d86862a61a3548a3d5eea492b0358, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

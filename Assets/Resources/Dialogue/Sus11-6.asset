@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: It's scary, but I know that we'll get through this together - and
         hey, at least I get to work with some pretty cool detectives!
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 52f3c6a17116c4e4dafcb9ce10ed3d96, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

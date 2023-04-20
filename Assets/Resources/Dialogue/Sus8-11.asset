@@ -21,10 +21,12 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Yeah, of course!
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: ec9ee5725ec66a2409216e74624e3e96, type: 3}
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
       Dialogue: Are they guilty?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - "That\u2019s definitely a robot"
     - "That\u2019s a human"

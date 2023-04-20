@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: I really like 'Doom!'
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: c4a9ca6c717f63b4dac3cb2411d1d1e6, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

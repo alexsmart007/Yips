@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: My mom is great and has done a lot to help support my sister and
         I through school!
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 9fd363ecef6cad94fb6e23d0897f6654, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

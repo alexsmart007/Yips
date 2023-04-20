@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Nice to have a break from running around all day.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: ca467de6ba38b984ab6e9b4c6afd042e, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

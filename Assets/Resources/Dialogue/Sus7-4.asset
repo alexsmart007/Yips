@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: I help around the neighborhood and am a high schooler at Carnegie
         High.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: d059838ecdc76af4fb4e4f2e4027789e, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

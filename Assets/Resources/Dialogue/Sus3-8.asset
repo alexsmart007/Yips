@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "Since this is my full-time job, I\u2019ll be seeking out another
         research position. It\u2019s a shame this one was compromised."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 6846a55c562685b499d65e634729c41e, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:
