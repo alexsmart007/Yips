@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: "I don\u2019t have time for such mundane things."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 84ec0bd3c7bcf3a4fb50e218c5b990f7, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

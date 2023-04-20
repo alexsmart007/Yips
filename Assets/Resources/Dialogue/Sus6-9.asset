@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: "What I\u2019m doing now\u2026 supervising, one might say."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: f23456719da7a50498d34ace7176d013, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

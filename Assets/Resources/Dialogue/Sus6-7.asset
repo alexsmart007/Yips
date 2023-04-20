@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: My family is all worth far more than any of the people in this room.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 589e689045f2b204aab310939b2541c7, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

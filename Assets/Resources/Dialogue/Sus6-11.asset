@@ -21,10 +21,12 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: "Try to hurry this whole thing up, why don\u2019t you?"
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 8b4f0ffc467d9fa44ac78b9442feff86, type: 3}
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
       Dialogue: Are they guilty?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - "That\u2019s definitely a robot"
     - "That\u2019s a human"

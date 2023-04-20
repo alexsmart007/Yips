@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: "I just have a few\u2026 errands\u2026 to attend to."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: bfd1ba852f7fa93408fadf8bf307a522, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

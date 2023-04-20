@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Oh, that is neither here nor there.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 0919fbb1d8e719b42bcc9e869d758d30, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

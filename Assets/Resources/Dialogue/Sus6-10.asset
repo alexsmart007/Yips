@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: "As if that shall happen to me\u2026"
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 1a08e0479935eac4485ca1e42050ba7d, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

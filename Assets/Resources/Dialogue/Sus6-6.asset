@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Honestly, quite annoyed at this inconvenience.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: d69d309afc9927649a3a7a268264435e, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job
