@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "I help Luna a lot with her schoolwork, and I\u2019m studying to
         be a nurse, but I\u2019m also a fantastic singer! I hope to make it big someday!"
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 48676ed5c2c377345a1f89fb54edf7ad, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

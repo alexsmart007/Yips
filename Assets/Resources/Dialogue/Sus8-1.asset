@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Hey, hey! How are ya?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: ec32e745bcd777949866ab5c5b810492, type: 3}
     Choices:
     - Why did you sign up for the project
     - What is the last thing you remember before this happened?

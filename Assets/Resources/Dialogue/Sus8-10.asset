@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "I don\u2019t really think about it much, but everyone dies someday
         and I try not to let that get me down!"
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 71dfd28302ec66643a332b9cb08635fa, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

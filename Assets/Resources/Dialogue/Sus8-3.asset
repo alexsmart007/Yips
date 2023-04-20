@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: Luna and I were testing one of the samples. She was pretty excited,
         so I think we were close to something big!
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 24b59c616c1ce274490ba4a448c4e705, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

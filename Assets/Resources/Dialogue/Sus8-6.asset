@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "I\u2019m a little scared, but I\u2019ve got my twin sister here,
         and I believe everything will be alright!"
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 0a675dc87dafd464b875a1f0e1a8979e, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

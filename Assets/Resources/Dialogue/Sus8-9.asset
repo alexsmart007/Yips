@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "I really want to make a difference, so, as long as I\u2019m with
         Luna and helping others, I don\u2019t care what I do!"
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: e34a45ab07c82384ab2aa3fdadbd3a92, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:
