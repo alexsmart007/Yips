@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: It is my duty to help push humanity forwards!
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 36ab655782d4af2489efd8288986dee7, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

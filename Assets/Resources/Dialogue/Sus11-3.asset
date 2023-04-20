@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: Working in the lab with my amazing sister Kiki, feeling like we were
         on the brink of something incredible!
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: f9e5dbf39db5576449bfe479cd2738c7, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

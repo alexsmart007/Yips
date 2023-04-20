@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: I promised Mrs. Baker that I would help her daughter, Claurise, study
         mathematics tonight.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 57a544f9616362c448cba415d9f7c114, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

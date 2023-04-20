@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Umm, sir, why are you asking me that question?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: bb7273bd389fc3a4aa0d856fd9101ca8, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

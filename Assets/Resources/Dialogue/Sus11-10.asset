@@ -23,6 +23,7 @@ MonoBehaviour:
         control me. I believe that life is a precious gift, and I want to make the
         most of it while I can.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 9c13326de3a1f2648ab52c1e4c899ee0, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

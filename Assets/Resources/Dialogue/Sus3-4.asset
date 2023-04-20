@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "This place is my main profession. I sometimes enjoy volunteering
         at the local food bank, but obviously, I don\u2019t make any money from that."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 9ee1fbdfd7ba16443839073d3fa8e2c0, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

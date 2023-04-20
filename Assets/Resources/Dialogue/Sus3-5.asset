@@ -23,6 +23,7 @@ MonoBehaviour:
         all-time favorites as soon as I booted it up for the first time. I think
         many people can relate.'
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 54c69dacd76c49b4898941c1868e67f1, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

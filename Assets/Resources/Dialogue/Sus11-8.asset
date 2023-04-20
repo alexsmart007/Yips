@@ -23,6 +23,7 @@ MonoBehaviour:
         maybe we'll find some other way to make a positive impact on the world -
         the sky's the limit!
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 71be7ae65db2ef744959ab5ba6db24db, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

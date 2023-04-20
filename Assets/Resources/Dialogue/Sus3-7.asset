@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "My family means a lot to me. They\u2019ve been supportive of me
         ever since I was a little boy."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 8763cce75435d2c4dad52574253f1718, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

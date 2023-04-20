@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: This is my dream job. Despite the risk of the singularity, I think
         AI is worth exploring to its fullest potential.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 819f31231bd12304bb1dc1a7f0dfe59c, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

@@ -23,6 +23,7 @@ MonoBehaviour:
         use my knowledge and creativity to solve problems and change the world for
         the better!
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 4728a40a9bda54a41bd64139dae09d93, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

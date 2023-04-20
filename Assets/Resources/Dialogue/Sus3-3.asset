@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: I was grabbing a cup of coffee with Oliver. You can ask him yourself.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: a2eed3890c68da744ae490750c614f74, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

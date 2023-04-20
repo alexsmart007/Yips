@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "Death is a fact of life. If it weren\u2019t for death, we wouldn\u2019t
         appreciate life. So, no. I\u2019m not scared."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 2b4f2d6c22659d640ae7ecb4253b5934, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

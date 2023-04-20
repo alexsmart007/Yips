@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "Honestly, I haven\u2019t thought that much about my future. Kind
         of a far way off for me right now."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 0c5de3c1ba7b0c945bfe2f728e47cbc4, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

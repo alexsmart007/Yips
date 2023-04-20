@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Hi there! My name is Luna!
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 579f28a335c67b24389e0954ca0fc442, type: 3}
     Choices:
     - Why did you sign up for the project
     - What is the last thing you remember before this happened?
