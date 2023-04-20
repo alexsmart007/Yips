@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: They are AI but what about them is AI?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - Their appearance is uncanny.
     - The words they're saying are unnatural.
@@ -32,6 +33,6 @@ MonoBehaviour:
     - BranchText: Sus16-Fail
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus16-Fail
+    - BranchText: Sus16-Success
       isPuzzle: 0
       Requirements: []

@@ -34,6 +34,6 @@ MonoBehaviour:
     - BranchText: Sus16-12
       isPuzzle: 0
       Requirements: []
-    - BranchText: Sus16-Success
+    - BranchText: Sus16-Fail
       isPuzzle: 0
       Requirements: []
