@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Probably being a famous musician, or something. I don't really know.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - Thank you for your time
     LeadsTo:

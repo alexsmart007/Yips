@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Mmm...?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - Why did you sign up for the project
     - What is the last thing you remember before this happened?

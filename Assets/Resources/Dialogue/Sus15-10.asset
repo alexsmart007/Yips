@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Ha! No. Maybe... Not for myself.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - Thank you for your time
     LeadsTo:

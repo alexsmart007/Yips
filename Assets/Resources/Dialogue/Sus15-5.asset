@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: I don't play games. I do play a little guitar though, and sing.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 0}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job
