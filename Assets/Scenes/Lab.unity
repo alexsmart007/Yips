@@ -6440,7 +6440,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ba6517b69d386c409d97ad8060d6a4f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dialogue: {fileID: 11400000, guid: eb79dbbba2bfcbc4ab4cb4adc3c500ef, type: 2}
+  dialogue: {fileID: 11400000, guid: 47f8ae7b448f3c54d8f6ee17c025f5a0, type: 2}
 --- !u!212 &923866385
 SpriteRenderer:
   m_ObjectHideFlags: 0
