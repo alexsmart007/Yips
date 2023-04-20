@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: I thought something bad might happen. That's why I'm here. I just
         hope Oliver is okay.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 5dbd420112c18cc46aa0264877b3b959, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

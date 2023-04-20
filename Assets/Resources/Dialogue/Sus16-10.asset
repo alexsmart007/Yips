@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Me? No, if I die then there's nothing I can do, ya know?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: f7e97c46cb2554348832142aed4d4fa9, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

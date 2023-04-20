@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "Hiya, what's your name? I\u2019m Marshal, but everyone calls me
         Marshy."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: ff0afe3e180068242a3897170afe9437, type: 3}
     Choices:
     - Why did you sign up for the project
     - What is the last thing you remember before this happened?

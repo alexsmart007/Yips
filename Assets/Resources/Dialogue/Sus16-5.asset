@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Definitely 'Night in the Woods!'
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 5bfdb9c492532bd49a95a4de9d84a2af, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

@@ -23,6 +23,7 @@ MonoBehaviour:
         don't know what project they'll put me on yet, but whatever it is, it'll
         be fun!
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 203bbca1797786d4cb64934980f9ebb8, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

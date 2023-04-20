@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: I was holding down the fort while Oliver went to go get coffee. I
         guess I didn't do a very good job considering what went wrong, haha!
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: d79ac748d8ecae84a95b63794c18997e, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

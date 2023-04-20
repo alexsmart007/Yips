@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: I got a job recently at a lab in Nevada, but that won't be until
         the summer.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: b78f8325849b94143af4a69186fc8c76, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: I'm a materials scientist, so I guess I'm a little out of my element,
         but I'm not afraid to try new things.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 5092168262c455846a061a12f1d606d9, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

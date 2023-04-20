@@ -23,6 +23,7 @@ MonoBehaviour:
         each other. Oliver is like a brother to me though, I stick my neck out for
         him all the time.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: db2d91ce6d2da3e4d9509783709f31ba, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job
