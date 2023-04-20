@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: I won't lie, I needed a change of pace from what I usually do and
         that $500 is not that bad of an added bonus.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 4c35925b3566c2f418d2e7b9da460fe7, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

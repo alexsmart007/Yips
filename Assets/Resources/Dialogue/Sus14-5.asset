@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Honestly, I quite enjoy 'Sims 4' at the moment.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 3ae5ee2f3f93e194baa1b1ad69b8638b, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

@@ -19,8 +19,9 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "I... prefer not to talk about it."
+      Dialogue: I... prefer not to talk about it.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: fe20f454823fb0b46a8b81f2e5cfc91a, type: 3}
     Choices:
     - What is your favorite video game
     - How do you feel about this situation

@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "After what I've gone through\u2026 let\u2019s just leave that at
         no."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 748030c8229b52a47af2765357ec3122, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

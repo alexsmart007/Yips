@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: I am gonna head back to my place and probably head straight to bed.
         I have a long day ahead of me tomorrow.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 47fc4c5439be24f4bab8fca311c20823, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:

@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: That would require me to have one.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 4b740fd4dc8449e448f4242e03f95e45, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

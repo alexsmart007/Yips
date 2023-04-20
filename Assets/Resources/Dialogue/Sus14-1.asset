@@ -19,8 +19,9 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 0
       VoiceSpeaker: 0
-      Dialogue: "Oh... hey."
+      Dialogue: Oh... hey.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 1634b3a35aa8e9e47b4cee4f8fd7a0d2, type: 3}
     Choices:
     - Why did you sign up for the project
     - What is the last thing you remember before this happened?

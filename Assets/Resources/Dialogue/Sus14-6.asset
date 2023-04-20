@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "Well, I'm not sure since I don\u2019t exactly know what 'this' situation
         is."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: cea8e37e52d532745b05cd41aa8417ed, type: 3}
     Choices:
     - What are you gonna do when you leave here
     - What is your dream job

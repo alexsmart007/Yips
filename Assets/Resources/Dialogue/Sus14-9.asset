@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: Honestly, I would be satisfied if I could just get one that I could
         rely on.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 85c1a0e13e0a8af4f94a5f2c5e18fd5a, type: 3}
     Choices:
     - Thank you for your time
     LeadsTo:
