@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: "I think I\u2019ve already talked to this girl"
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 5c772c703f439bd4198f441a2a0fb412, type: 3}
     Choices: []
     LeadsTo:
     - BranchText: Exit

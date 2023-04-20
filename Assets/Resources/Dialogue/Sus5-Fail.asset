@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Great talk
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: ddb1c6a5c775eff40bf651aff9781c51, type: 3}
     Choices: []
     LeadsTo:
     - BranchText: Exit

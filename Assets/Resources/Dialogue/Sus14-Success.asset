@@ -19,8 +19,9 @@ MonoBehaviour:
     Dialogues:
     - PlayerIsSpeaker: 1
       VoiceSpeaker: 0
-      Dialogue: Great, time to talk to another suspect
+      Dialogue: Done here, I got to move on
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 82fcdc187613eb44784bed50ec7a2e85, type: 3}
     Choices: []
     LeadsTo:
     - BranchText: Exit

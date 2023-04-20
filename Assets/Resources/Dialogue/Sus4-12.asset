@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: But what exactly is off about them?
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: d7cc0b698b5181744a490c5e9bb97684, type: 3}
     Choices:
     - Their appearance is uncanny.
     - The words they're saying are unnatural.

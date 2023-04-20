@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "Hard to forget that I\u2019ve talked to this person already. Need
         to move on."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 6786ab0901817a441939ad315a73bac3, type: 3}
     Choices: []
     LeadsTo:
     - BranchText: Exit

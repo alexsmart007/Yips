@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Time to move on.
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 3d2f3732c6abe0d41838b7387fe7c672, type: 3}
     Choices: []
     LeadsTo:
     - BranchText: Exit

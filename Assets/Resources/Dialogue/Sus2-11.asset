@@ -26,7 +26,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Are they guilty?
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: bc3d2646bed4b7040af86b83ce090624, type: 3}
     Choices:
     - Seems robotic to me
     - "I think I\u2019m talking to a human"

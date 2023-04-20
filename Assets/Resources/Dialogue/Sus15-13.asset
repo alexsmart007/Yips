@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: "I\u2019ve already talked to this suspect"
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 69a995f02d98d81469179974b1dd02e0, type: 3}
     Choices: []
     LeadsTo:
     - BranchText: Exit

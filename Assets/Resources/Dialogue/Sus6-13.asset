@@ -22,6 +22,7 @@ MonoBehaviour:
       Dialogue: "I\u2019ve already talked to this person, I need to move on to the
         other suspects."
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: ad6a7fa8266e58d40bdce7795b01910d, type: 3}
     Choices: []
     LeadsTo:
     - BranchText: Exit

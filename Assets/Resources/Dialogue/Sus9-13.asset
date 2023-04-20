@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Already talked to this one, need to find a new person
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 94dfcf1451e49254e84f74c95bb7231b, type: 3}
     Choices: []
     LeadsTo:
     - BranchText: Exit

@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: On to the next suspect...
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: e456e7cbabdc64d49a8a07b205ce721d, type: 3}
     Choices: []
     LeadsTo:
     - BranchText: Exit

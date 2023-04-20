@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Finished with that one, time to continue
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 2e85df07f05a6554ebc9a0b81ea47f5c, type: 3}
     Choices: []
     LeadsTo:
     - BranchText: Exit

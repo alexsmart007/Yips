@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Moving on
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 8c0ef6e73d49d0c4f8c2bf84e200b95c, type: 3}
     Choices: []
     LeadsTo:
     - BranchText: Exit

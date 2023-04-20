@@ -27,7 +27,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: Are they guilty?
       VoiceLine: {fileID: 0}
-      voiceClip: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: bc3d2646bed4b7040af86b83ce090624, type: 3}
     Choices:
     - "That\u2019s definitely a robot"
     - "That\u2019s a human"

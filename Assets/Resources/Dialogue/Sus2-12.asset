@@ -21,6 +21,7 @@ MonoBehaviour:
       VoiceSpeaker: 0
       Dialogue: "They\u2019re artificial, but what\u2019s off about them?"
       VoiceLine: {fileID: 0}
+      voiceClip: {fileID: 8300000, guid: 6c2235d62d1353844b30d3c1779e1fa3, type: 3}
     Choices:
     - Their appearance is uncanny.
     - The words they're saying are unnatural.
